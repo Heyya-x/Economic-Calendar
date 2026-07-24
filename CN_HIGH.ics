@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260731T093000
 DTEND;TZID=Asia/Shanghai:20260731T093000
 LOCATION:中国
 SUMMARY:📊 中国 7月 官方制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 50.3 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 50.3 | 预测: 50 | 公布: -
 UID:fx678-20260731-501d2674
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
