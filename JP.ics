@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260727T075000
 DTEND;TZID=Asia/Shanghai:20260727T075000
 LOCATION:日本
 SUMMARY:📊 日本 6月 企业服务价格指数年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3.3 | 预测: - | 公布: -\n-- 日本 6月 企业服务价格指数月率 (%): 前值: 0 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3.3 | 预测: 3.4 | 公布: 3.2\n-- 日本 6月 企业服务价格指数月率 (%): 前值: 0 | 预测: - | 公布: 0
 UID:fx678-20260727-47775d65
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260727T130000
 DTEND;TZID=Asia/Shanghai:20260727T130000
 LOCATION:日本
 SUMMARY:📊 日本 5月 领先指标读数变动修正值
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.7 | 预测: - | 公布: -\n-- 日本 5月 同步指标修正值: 前值: 118.5 | 预测: - | 公布: -\n-- 日本 5月 领先指标修正值: 前值: 116.8 | 预测: - | 公布: -\n-- 日本 5月 同步指标读数变动修正值: 前值: 0.4 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.7 | 预测: - | 公布: 0.4\n-- 日本 5月 同步指标修正值: 前值: 118.5 | 预测: - | 公布: 117.9\n-- 日本 5月 领先指标修正值: 前值: 116.8 | 预测: - | 公布: 116.5\n-- 日本 5月 同步指标读数变动修正值: 前值: 0.4 | 预测: - | 公布: -0.2
 UID:fx678-20260727-0449b08d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -228,7 +228,7 @@ DTSTART;TZID=Asia/Shanghai:20260803T083000
 DTEND;TZID=Asia/Shanghai:20260803T083000
 LOCATION:日本
 SUMMARY:📊 日本 7月 Jibun制造业PMI终值
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 7月 Jibun服务业PMI终值: 前值:  | 预测: - | 公布: -\n-- 日本 7月 Jibun综合PMI终值: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 54.7 | 预测: - | 公布: -\n-- 日本 7月 Jibun服务业PMI终值: 前值: 51.9 | 预测: - | 公布: -\n-- 日本 7月 Jibun综合PMI终值: 前值: 53.1 | 预测: - | 公布: -
 UID:fx678-20260803-557b4419
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -237,6 +237,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 7月 Jibun制造业PMI终值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260804T075000
+DTEND;TZID=Asia/Shanghai:20260804T075000
+LOCATION:日本
+SUMMARY:📊 日本 7月 基础货币年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -13.7 | 预测: - | 公布: -\n-- 日本 7月 基础货币额 (万亿日元): 前值: 559.98 | 预测: - | 公布: -
+UID:fx678-20260804-43cb105c
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 7月 基础货币年率 (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
