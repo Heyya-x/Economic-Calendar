@@ -16,22 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260727T160000
-DTEND;TZID=Asia/Shanghai:20260727T160000
-LOCATION:德国
-SUMMARY:📊 德国 7月 IFO商业景气指数
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 85.6 | 预测: 86 | 公布: 86.6\n-- 德国 7月 IFO商业现况指数: 前值: 87 | 预测: 87.3 | 公布: 86.5\n-- 德国 7月 IFO商业预期指数: 前值: 84.1 | 预测: 84.8 | 公布: 86.7
-UID:fx678-20260727-581dab5c
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国 7月 IFO商业景气指数
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260730T140000
 DTEND;TZID=Asia/Shanghai:20260730T140000
 LOCATION:德国
@@ -116,7 +100,7 @@ DTSTART;TZID=Asia/Shanghai:20260731T140000
 DTEND;TZID=Asia/Shanghai:20260731T140000
 LOCATION:德国
 SUMMARY:📊 德国 6月 进口物价指数月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 0.7 | 预测: -0.8 | 公布: -\n-- 德国 6月 进口物价指数年率 (%): 前值: 6.8 | 预测: - | 公布: -\n-- 德国 6月 出口物价指数年率 (%): 前值: 3.4 | 预测: - | 公布: -\n-- 德国 6月 出口物价指数月率 (%): 前值: 0.5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 0.7 | 预测: -0.8 | 公布: -\n-- 德国 6月 进口物价指数年率 (%): 前值: 6.8 | 预测: 6 | 公布: -\n-- 德国 6月 出口物价指数年率 (%): 前值: 3.4 | 预测: - | 公布: -\n-- 德国 6月 出口物价指数月率 (%): 前值: 0.5 | 预测: - | 公布: -
 UID:fx678-20260731-1cc3732b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -173,6 +157,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 德国 7月 SPGI制造业PMI终值
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260805T155500
+DTEND;TZID=Asia/Shanghai:20260805T155500
+LOCATION:德国
+SUMMARY:📊 德国 7月 SPGI服务业PMI终值
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值:  | 预测: - | 公布: -\n-- 德国 7月 SPGI综合PMI终值: 前值:  | 预测: - | 公布: -
+UID:fx678-20260805-0abac3d0
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 德国 7月 SPGI服务业PMI终值
 END:VALARM
 END:VEVENT
 END:VCALENDAR
