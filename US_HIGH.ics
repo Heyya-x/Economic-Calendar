@@ -16,54 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260728T201500
-DTEND;TZID=Asia/Shanghai:20260728T201500
-LOCATION:美国
-SUMMARY:📊 美国 截至7月11日当周 ADP就业周度发布变动 (万人)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.65 | 预测: - | 公布: 1.5
-UID:fx678-20260728-6481a87d
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至7月11日当周 ADP就业周度发布变动 (万人)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260728T203000
-DTEND;TZID=Asia/Shanghai:20260728T203000
-LOCATION:美国
-SUMMARY:📊 美国 6月 批发库存月率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.1 | 预测: - | 公布: 0.3
-UID:fx678-20260728-17d2c7f8
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 6月 批发库存月率初值 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260728T220000
-DTEND;TZID=Asia/Shanghai:20260728T220000
-LOCATION:美国
-SUMMARY:📊 美国 7月 谘商会消费者信心指数
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 91.2 | 预测: 92.3 | 公布: 90.8
-UID:fx678-20260728-50dcc4d7
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月 谘商会消费者信心指数
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260729T043000
 DTEND;TZID=Asia/Shanghai:20260729T043000
 LOCATION:美国
@@ -84,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260729T223000
 DTEND;TZID=Asia/Shanghai:20260729T223000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月24日当周 EIA原油库存变动 (万桶)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 201 | 预测: -135 | 公布: -\n-- 美国 截至7月24日当周 EIA汽油库存变动 (万桶) ★★★: 前值: 76.5 | 预测: -120.4 | 公布: -\n-- 美国 截至7月24日当周 EIA精炼油库存变动 (万桶) ★★★: 前值: 139.5 | 预测: - | 公布: -\n-- 美国 截至7月24日当周 EIA俄克拉荷马州-库欣原油库存 (万桶) ★★★: 前值: -67.4 | 预测: - | 公布: -\n-- 美国 截至7月24日当周 EIA每周原油进口变动 (万桶) ★★★: 前值: 48.5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 201 | 预测: -127.2 | 公布: -716.7\n-- 美国 截至7月24日当周 EIA汽油库存变动 (万桶) ★★★: 前值: 76.5 | 预测: -71.5 | 公布: 0.7\n-- 美国 截至7月24日当周 EIA精炼油库存变动 (万桶) ★★★: 前值: 139.5 | 预测: 14.6 | 公布: 106.2\n-- 美国 截至7月24日当周 EIA俄克拉荷马州-库欣原油库存 (万桶) ★★★: 前值: -67.4 | 预测: - | 公布: -77.1\n-- 美国 截至7月24日当周 EIA每周原油进口变动 (万桶) ★★★: 前值: 48.5 | 预测: - | 公布: -23.7
 UID:fx678-20260729-7654bf6e
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T020000
 DTEND;TZID=Asia/Shanghai:20260730T020000
 LOCATION:美国
 SUMMARY:📊 美国 7月 联邦基金利率目标上限 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.75 | 预测: 3.75 | 公布: -\n-- 美国 7月 联邦基金利率目标下限 (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.75 | 预测: 3.75 | 公布: 3.75\n-- 美国 7月 联邦基金利率目标下限 (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: 3.5
 UID:fx678-20260730-400ee520
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -164,7 +116,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T203000
 DTEND;TZID=Asia/Shanghai:20260730T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月25日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 18.7 | 预测: 20.4 | 公布: -\n-- 美国 截至7月18日当周 续请失业金人数 (万) ★★★: 前值: 179.6 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 18.7 | 预测: 20 | 公布: -\n-- 美国 截至7月18日当周 续请失业金人数 (万) ★★★: 前值: 179.6 | 预测: 179.8 | 公布: -
 UID:fx678-20260730-770cef58
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -260,7 +212,7 @@ DTSTART;TZID=Asia/Shanghai:20260803T220000
 DTEND;TZID=Asia/Shanghai:20260803T220000
 LOCATION:美国
 SUMMARY:📊 美国 7月 ISM制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 53.3 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 53.3 | 预测: 54 | 公布: -
 UID:fx678-20260803-5733af75
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -340,7 +292,7 @@ DTSTART;TZID=Asia/Shanghai:20260805T043000
 DTEND;TZID=Asia/Shanghai:20260805T043000
 LOCATION:美国
 SUMMARY:📊 美国 截至7月31日当周 API原油库存变动 (万桶)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至7月31日当周 API汽油库存变动 (万桶) ★★★: 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: -329.6 | 预测: - | 公布: -\n-- 美国 截至7月31日当周 API汽油库存变动 (万桶) ★★★: 前值: 91.8 | 预测: - | 公布: -
 UID:fx678-20260805-35844e30
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -372,7 +324,7 @@ DTSTART;TZID=Asia/Shanghai:20260805T220000
 DTEND;TZID=Asia/Shanghai:20260805T220000
 LOCATION:美国
 SUMMARY:📊 美国 7月 ISM非制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54 | 预测: 54.3 | 公布: -
 UID:fx678-20260805-2cdb09fa
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -397,6 +349,54 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 截至7月31日当周 EIA原油库存变动 (万桶)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260806T173000
+DTEND;TZID=Asia/Shanghai:20260806T173000
+LOCATION:美国
+SUMMARY:📊 美国 7月 挑战者企业裁员人数 (万)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4.58 | 预测: - | 公布: -
+UID:fx678-20260806-5931ccb8
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 7月 挑战者企业裁员人数 (万)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260806T203000
+DTEND;TZID=Asia/Shanghai:20260806T203000
+LOCATION:美国
+SUMMARY:📊 美国 截至8月1日当周 初请失业金人数 (万)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至8月1日当周 续请失业金人数 (万) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20260806-347692f5
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 截至8月1日当周 初请失业金人数 (万)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260806T220000
+DTEND;TZID=Asia/Shanghai:20260806T220000
+LOCATION:美国
+SUMMARY:📊 美国 6月 批发库存月率终值 (%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
+UID:fx678-20260806-46ecd4fd
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 6月 批发库存月率终值 (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

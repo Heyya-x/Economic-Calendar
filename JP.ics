@@ -287,4 +287,20 @@ ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 截至8月1日当周 PAJ商业原油库存变动 (万千升)
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260806T075000
+DTEND;TZID=Asia/Shanghai:20260806T075000
+LOCATION:日本
+SUMMARY:📊 日本 截至7月31日当周 买进外国债券 (亿日元)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至7月31日当周 买进外国股票 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月31日当周 外资买进日债 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月31日当周 外资买进日股 (亿日元): 前值:  | 预测: - | 公布: -
+UID:fx678-20260806-5a9586d2
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 截至7月31日当周 买进外国债券 (亿日元)
+END:VALARM
+END:VEVENT
 END:VCALENDAR
