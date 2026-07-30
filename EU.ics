@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T170000
 DTEND;TZID=Asia/Shanghai:20260730T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 第二季度 季调后GDP季率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -0.2 | 预测: 0.2 | 公布: -\n-- 欧元区 第二季度 季调后GDP年率初值 (%) ★★★: 前值: 0.3 | 预测: 0.5 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -0.2 | 预测: 0.2 | 公布: 0.4\n-- 欧元区 第二季度 季调后GDP年率初值 (%) ★★★: 前值: 0.3 | 预测: 0.5 | 公布: 1
 UID:fx678-20260730-1fd925a8
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T170000
 DTEND;TZID=Asia/Shanghai:20260730T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 7月 企业景气指数
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: -0.38 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: -0.38 | 预测: - | 公布: -0.19
 UID:fx678-20260730-2f6666b0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -52,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T170000
 DTEND;TZID=Asia/Shanghai:20260730T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 7月 经济景气指数
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 95 | 预测: 96 | 公布: -\n-- 欧元区 7月 工业景气指数 ★★★: 前值: -7.7 | 预测: -7 | 公布: -\n-- 欧元区 7月 服务业景气指数: 前值: 3.2 | 预测: 3.8 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 95 | 预测: 96 | 公布: 96.9\n-- 欧元区 7月 工业景气指数 ★★★: 前值: -7.7 | 预测: -7 | 公布: -6.1\n-- 欧元区 7月 服务业景气指数: 前值: 3.2 | 预测: 3.8 | 公布: 4.7
 UID:fx678-20260730-3aaf612f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -68,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T170000
 DTEND;TZID=Asia/Shanghai:20260730T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 7月 消费者信心指数终值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -15.9 | 预测: -15.9 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -15.9 | 预测: -15.9 | 公布: -15.9
 UID:fx678-20260730-5ac04cc9
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -84,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T170000
 DTEND;TZID=Asia/Shanghai:20260730T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 7月 季调后消费者通胀预期指数
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 34 | 预测: - | 公布: -\n-- 欧元区 7月 季调后生产者通胀预期指数: 前值: 22.3 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 34 | 预测: - | 公布: 30.3\n-- 欧元区 7月 季调后生产者通胀预期指数: 前值: 22.3 | 预测: - | 公布: 17.7
 UID:fx678-20260730-05bd7edc
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +100,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T170000
 DTEND;TZID=Asia/Shanghai:20260730T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 6月 失业率 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 6.2 | 预测: 6.2 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 6.2 | 预测: 6.2 | 公布: 6.3
 UID:fx678-20260730-04060bd1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T075000
 DTEND;TZID=Asia/Shanghai:20260730T075000
 LOCATION:日本
 SUMMARY:📊 日本 截至7月24日当周 买进外国债券 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -7144 | 预测: - | 公布: -\n-- 日本 截至7月24日当周 买进外国股票 (亿日元): 前值: -1213 | 预测: - | 公布: -\n-- 日本 截至7月24日当周 外资买进日债 (亿日元): 前值: -1851 | 预测: - | 公布: -\n-- 日本 截至7月24日当周 外资买进日股 (亿日元): 前值: -796 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -7144 | 预测: - | 公布: -8114\n-- 日本 截至7月24日当周 买进外国股票 (亿日元): 前值: -1213 | 预测: - | 公布: 3202\n-- 日本 截至7月24日当周 外资买进日债 (亿日元): 前值: -1851 | 预测: - | 公布: -15139\n-- 日本 截至7月24日当周 外资买进日股 (亿日元): 前值: -796 | 预测: - | 公布: 9121
 UID:fx678-20260730-34356a2d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260730T130000
 DTEND;TZID=Asia/Shanghai:20260730T130000
 LOCATION:日本
 SUMMARY:📊 日本 7月 家庭消费者信心指数
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 33.8 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 33.8 | 预测: - | 公布: 34.9
 UID:fx678-20260730-64711500
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -292,7 +292,7 @@ DTSTART;TZID=Asia/Shanghai:20260806T075000
 DTEND;TZID=Asia/Shanghai:20260806T075000
 LOCATION:日本
 SUMMARY:📊 日本 截至7月31日当周 买进外国债券 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至7月31日当周 买进外国股票 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月31日当周 外资买进日债 (亿日元): 前值:  | 预测: - | 公布: -\n-- 日本 截至7月31日当周 外资买进日股 (亿日元): 前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -8114 | 预测: - | 公布: -\n-- 日本 截至7月31日当周 买进外国股票 (亿日元): 前值: 3202 | 预测: - | 公布: -\n-- 日本 截至7月31日当周 外资买进日债 (亿日元): 前值: -15139 | 预测: - | 公布: -\n-- 日本 截至7月31日当周 外资买进日股 (亿日元): 前值: 9121 | 预测: - | 公布: -
 UID:fx678-20260806-5a9586d2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -301,6 +301,38 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 截至7月31日当周 买进外国债券 (亿日元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260807T073000
+DTEND;TZID=Asia/Shanghai:20260807T073000
+LOCATION:日本
+SUMMARY:📊 日本 6月 所有家庭支出年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -0.3 | 预测: - | 公布: -\n-- 日本 6月 所有家庭支出月率 (%): 前值: 3.7 | 预测: - | 公布: -
+UID:fx678-20260807-20f856b7
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 6月 所有家庭支出年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260807T130000
+DTEND;TZID=Asia/Shanghai:20260807T130000
+LOCATION:日本
+SUMMARY:📊 日本 6月 领先指标读数变动初值
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.4 | 预测: - | 公布: -\n-- 日本 6月 同步指标读数变动初值: 前值: -0.2 | 预测: - | 公布: -\n-- 日本 6月 同步指标初值: 前值: 117.9 | 预测: - | 公布: -\n-- 日本 6月 领先指标初值: 前值: 116.5 | 预测: - | 公布: -
+UID:fx678-20260807-7e107319
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 6月 领先指标读数变动初值
 END:VALARM
 END:VEVENT
 END:VCALENDAR
