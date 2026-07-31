@@ -16,75 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260730T160000
-DTEND;TZID=Asia/Shanghai:20260730T160000
-LOCATION:德国
-SUMMARY:📊 德国 第二季度 季调后GDP季率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 0.3 | 预测: 0.1 | 公布: 0.2\n-- 德国 第二季度 未季调季度GDP年率初值 (%) ★★★: 前值: 0.5 | 预测: 0.6 | 公布: 0.9\n-- 德国 第二季度 工作日调整后GDP年率初值 (%): 前值: 0.4 | 预测: 0.6 | 公布: 0.9
-UID:fx678-20260730-63d2a52c
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国 第二季度 季调后GDP季率初值 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260730T160000
-DTEND;TZID=Asia/Shanghai:20260730T160000
-LOCATION:德国
-SUMMARY:📊 德国 7月 BB勃兰登堡州CPI月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: -0.2 | 预测: - | 公布: 1\n-- 德国 7月 SN萨克森州CPI月率 (%): 前值: -0.3 | 预测: - | 公布: 0.7\n-- 德国 7月 SN萨克森州CPI年率 (%): 前值: 2.3 | 预测: - | 公布: 2.8\n-- 德国 7月 BY巴伐利亚州CPI月率 (%): 前值: -0.2 | 预测: - | 公布: 0.6\n-- 德国 7月 BY巴伐利亚州CPI年率 (%): 前值: 2.5 | 预测: - | 公布: 2.8\n-- 德国 7月 BB勃兰登堡州CPI年率 (%): 前值: 2.4 | 预测: - | 公布: 2.9\n-- 德国 7月 BW巴登符腾堡州CPI月率 (%): 前值: -0.2 | 预测: - | 公布: 0.8\n-- 德国 7月 BW巴登符腾堡州CPI年率 (%): 前值: 2.1 | 预测: - | 公布: 2.5\n-- 德国 7月 HE黑森州CPI月率 (%): 前值: 0.2 | 预测: - | 公布: 0.7\n-- 德国 7月 HE黑森州CPI年率 (%): 前值: 2.3 | 预测: - | 公布: 2.7
-UID:fx678-20260730-718aa397
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国 7月 BB勃兰登堡州CPI月率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260730T160000
-DTEND;TZID=Asia/Shanghai:20260730T160000
-LOCATION:德国
-SUMMARY:📊 德国 7月 NW北莱茵威斯特法伦州CPI月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: -0.2 | 预测: - | 公布: 0.9\n-- 德国 7月 NW北莱茵威斯特法伦州CPI年率 (%): 前值: 2.1 | 预测: - | 公布: 2.7
-UID:fx678-20260730-5ef3e850
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国 7月 NW北莱茵威斯特法伦州CPI月率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260730T200000
-DTEND;TZID=Asia/Shanghai:20260730T200000
-LOCATION:德国
-SUMMARY:📊 德国 7月 CPI年率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 2.3 | 预测: 2.7 | 公布: 2.8\n-- 德国 7月 CPI月率初值 (%): 前值: -0.3 | 预测: 0.7 | 公布: 0.8\n-- 德国 7月 调和CPI月率初值 (%): 前值: -0.2 | 预测: 0.8 | 公布: 0.9\n-- 德国 7月 调和CPI年率初值 (%): 前值: 2.4 | 预测: 2.8 | 公布: 2.8
-UID:fx678-20260730-2f7424f2
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 德国 7月 CPI年率初值 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260731T155500
 DTEND;TZID=Asia/Shanghai:20260731T155500
 LOCATION:德国
 SUMMARY:📊 德国 7月 季调后失业率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 6.3 | 预测: 6.3 | 公布: -\n-- 德国 7月 季调后失业人数变动 (万人) ★★★: 前值: -0.1 | 预测: 0.5 | 公布: -\n-- 德国 7月 未季调失业总人数 (万人): 前值: 29.36 | 预测: - | 公布: -\n-- 德国 7月 季调后失业总人数 (万人): 前值: 298.4 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 6.3 | 预测: 6.3 | 公布: 6.4\n-- 德国 7月 季调后失业人数变动 (万人) ★★★: 前值: -0.1 | 预测: 0.5 | 公布: 0.6\n-- 德国 7月 未季调失业总人数 (万人): 前值: 29.36 | 预测: - | 公布: 30.07\n-- 德国 7月 季调后失业总人数 (万人): 前值: 298.4 | 预测: - | 公布: 299.3
 UID:fx678-20260731-52f6e7bb
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260803T140000
 DTEND;TZID=Asia/Shanghai:20260803T140000
 LOCATION:德国
 SUMMARY:📊 德国 6月 实际零售销售月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 1.1 | 预测: - | 公布: -\n-- 德国 6月 实际零售销售年率 (%) ★★★: 前值: 1.8 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 1.1 | 预测: -0.3 | 公布: -\n-- 德国 6月 实际零售销售年率 (%) ★★★: 前值: 1.8 | 预测: - | 公布: -
 UID:fx678-20260803-4c609aff
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -148,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260806T140000
 DTEND;TZID=Asia/Shanghai:20260806T140000
 LOCATION:德国
 SUMMARY:📊 德国 6月 工业订单月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 1.9 | 预测: - | 公布: -\n-- 德国 6月 工作日调整后制造业订单年率 (%): 前值: 6.2 | 预测: - | 公布: -\n-- 德国 6月 季调后制造业订单月率 (%): 前值: 1.9 | 预测: - | 公布: -\n-- 德国 6月 制造业产出当前价格年率-季调后 (%): 前值: 7.7 | 预测: - | 公布: -\n-- 德国 6月 季调后消费品指数-制造业分项: 前值: 115.6 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 1.9 | 预测: - | 公布: -\n-- 德国 6月 工作日调整后制造业订单年率 (%): 前值: 6.2 | 预测: - | 公布: -\n-- 德国 6月 季调后制造业订单月率 (%): 前值: 1.9 | 预测: 0.2 | 公布: -\n-- 德国 6月 制造业产出当前价格年率-季调后 (%): 前值: 7.7 | 预测: - | 公布: -\n-- 德国 6月 季调后消费品指数-制造业分项: 前值: 115.6 | 预测: - | 公布: -
 UID:fx678-20260806-693f777d
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -180,7 +116,7 @@ DTSTART;TZID=Asia/Shanghai:20260807T140000
 DTEND;TZID=Asia/Shanghai:20260807T140000
 LOCATION:德国
 SUMMARY:📊 德国 6月 季调后工业产出月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 0.9 | 预测: - | 公布: -\n-- 德国 6月 工作日调整后工业产出年率 (%) ★★★: 前值: 0 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 0.9 | 预测: 0 | 公布: -\n-- 德国 6月 工作日调整后工业产出年率 (%) ★★★: 前值: 0 | 预测: - | 公布: -
 UID:fx678-20260807-014749bf
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -196,7 +132,7 @@ DTSTART;TZID=Asia/Shanghai:20260807T140000
 DTEND;TZID=Asia/Shanghai:20260807T140000
 LOCATION:德国
 SUMMARY:📊 德国 6月 季调后出口月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 0.9 | 预测: - | 公布: -\n-- 德国 6月 季调后进口月率 (%): 前值: -2.5 | 预测: - | 公布: -\n-- 德国 6月 未季调贸易帐 (亿欧元): 前值: 156 | 预测: - | 公布: -\n-- 德国 6月 季调后贸易帐 (亿欧元): 前值: 191 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n重要性: ★★★\n前值: 0.9 | 预测: 0.2 | 公布: -\n-- 德国 6月 季调后进口月率 (%): 前值: -2.5 | 预测: - | 公布: -\n-- 德国 6月 未季调贸易帐 (亿欧元): 前值: 156 | 预测: - | 公布: -\n-- 德国 6月 季调后贸易帐 (亿欧元): 前值: 191 | 预测: - | 公布: -
 UID:fx678-20260807-61f2c1ed
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
