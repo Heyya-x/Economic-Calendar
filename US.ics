@@ -16,102 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260731T043000
-DTEND;TZID=Asia/Shanghai:20260731T043000
-LOCATION:美国
-SUMMARY:📊 美国 截至7月29日 美联储资产负债表 (万亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 6.75 | 预测: - | 公布: 6.74
-UID:fx678-20260731-1f7a428a
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至7月29日 美联储资产负债表 (万亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260731T043000
-DTEND;TZID=Asia/Shanghai:20260731T043000
-LOCATION:美国
-SUMMARY:📊 美国 截至7月25日当周 外国央行持有美国国债 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 248.14 | 预测: - | 公布: 339.02
-UID:fx678-20260731-03cebca0
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至7月25日当周 外国央行持有美国国债 (亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260731T063000
-DTEND;TZID=Asia/Shanghai:20260731T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月29日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3989.11 | 预测: - | 公布: 3988.95\n-- 美国 7月29日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -0.16\n-- 美国 7月29日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2546.82 | 预测: - | 公布: 2546.82\n-- 美国 7月29日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0
-UID:fx678-20260731-34224ad1
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月29日 NYMEX铂金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260731T203000
-DTEND;TZID=Asia/Shanghai:20260731T203000
-LOCATION:美国
-SUMMARY:📊 美国 第二季度 劳工就业成本季率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 0.9 | 预测: 0.8 | 公布: 0.9\n-- 美国 第二季度 劳工就业薪资季率 (%): 前值: 1.2 | 预测: - | 公布: 0.9\n-- 美国 第二季度 劳工就业福利季率 (%): 前值: 0.8 | 预测: - | 公布: 1
-UID:fx678-20260731-113d98b1
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 第二季度 劳工就业成本季率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260731T214500
-DTEND;TZID=Asia/Shanghai:20260731T214500
-LOCATION:美国
-SUMMARY:📊 美国 7月 芝加哥PMI
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 56.7 | 预测: 56 | 公布: 57.6
-UID:fx678-20260731-309423e7
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月 芝加哥PMI
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260731T220000
-DTEND;TZID=Asia/Shanghai:20260731T220000
-LOCATION:美国
-SUMMARY:📊 美国 7月 密歇根大学消费者信心指数终值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54.4 | 预测: 54 | 公布: 55.2\n-- 美国 7月 密歇根大学消费者预期终值: 前值: 54 | 预测: - | 公布: 55.4\n-- 美国 7月 密歇根大学经济现况终值: 前值: 54.9 | 预测: - | 公布: 54.8\n-- 美国 7月 密歇根大学1年期通胀率预期终值 (%): 前值: 4.2 | 预测: 4.3 | 公布: 4.2\n-- 美国 7月 密歇根大学5年期通胀率预期终值 (%): 前值: 3.3 | 预测: - | 公布: 3.3
-UID:fx678-20260731-577a0d4b
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月 密歇根大学消费者信心指数终值
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260801T010000
 DTEND;TZID=Asia/Shanghai:20260801T010000
 LOCATION:美国
@@ -132,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260801T063000
 DTEND;TZID=Asia/Shanghai:20260801T063000
 LOCATION:美国
 SUMMARY:📊 美国 7月30日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3988.95 | 预测: - | 公布: -\n-- 美国 7月30日 NYMEX铂金库存变动-每日 (百盎司): 前值: -0.16 | 预测: - | 公布: -\n-- 美国 7月30日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2546.82 | 预测: - | 公布: -\n-- 美国 7月30日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3988.95 | 预测: - | 公布: 3988.95\n-- 美国 7月30日 NYMEX铂金库存变动-每日 (百盎司): 前值: -0.16 | 预测: - | 公布: 0\n-- 美国 7月30日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2546.82 | 预测: - | 公布: 2546.82\n-- 美国 7月30日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0
 UID:fx678-20260801-6b18f184
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
