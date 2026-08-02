@@ -16,38 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260801T010000
-DTEND;TZID=Asia/Shanghai:20260801T010000
-LOCATION:美国
-SUMMARY:📊 美国 截至7月31日当周 全美钻井总数 (口)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 587 | 预测: - | 公布: 588\n-- 美国 截至7月31日当周 天然气钻井总数 (口): 前值: 127 | 预测: - | 公布: 127\n-- 美国 截至7月31日当周 石油钻井总数 (口) ★★★: 前值: 450 | 预测: - | 公布: 451\n-- 美国 截至7月31日当周 混杂钻井总数 (口): 前值: 10 | 预测: - | 公布: 10\n-- 北美洲 截至7月31日当周 总钻井总数 (口): 前值: 791 | 预测: - | 公布: 807\n-- 北美洲 截至7月31日当周 墨西哥湾总钻井总数 (口): 前值: 10 | 预测: - | 公布: 11\n-- 加拿大 截至7月31日当周 总钻井数量 (口): 前值: 204 | 预测: - | 公布: 219
-UID:fx678-20260801-1004bca6
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至7月31日当周 全美钻井总数 (口)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260801T063000
-DTEND;TZID=Asia/Shanghai:20260801T063000
-LOCATION:美国
-SUMMARY:📊 美国 7月30日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3988.95 | 预测: - | 公布: 3988.95\n-- 美国 7月30日 NYMEX铂金库存变动-每日 (百盎司): 前值: -0.16 | 预测: - | 公布: 0\n-- 美国 7月30日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2546.82 | 预测: - | 公布: 2546.82\n-- 美国 7月30日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0
-UID:fx678-20260801-6b18f184
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月30日 NYMEX铂金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260803T214500
 DTEND;TZID=Asia/Shanghai:20260803T214500
 LOCATION:美国
@@ -685,6 +653,54 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 8月6日 NYMEX铂金库存-每日更新 (百盎司)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260810T220000
+DTEND;TZID=Asia/Shanghai:20260810T220000
+LOCATION:美国
+SUMMARY:📊 美国 7月 谘商会就业趋势指数
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 106.69 | 预测: - | 公布: -
+UID:fx678-20260810-327a406e
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 7月 谘商会就业趋势指数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260810T233000
+DTEND;TZID=Asia/Shanghai:20260810T233000
+LOCATION:美国
+SUMMARY:📊 美国 8月10日 6个月期国债竞拍-总金额 (亿美元)
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 8月10日 6个月期国债竞拍-中标利率 (%): 前值:  | 预测: - | 公布: -\n-- 美国 8月10日 6个月期国债竞拍-投标倍数 (亿美元): 前值:  | 预测: - | 公布: -\n-- 美国 8月10日 6个月期国债竞拍-高配置百分比 (%): 前值:  | 预测: - | 公布: -
+UID:fx678-20260810-523c484a
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 8月10日 6个月期国债竞拍-总金额 (亿美元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260810T233000
+DTEND;TZID=Asia/Shanghai:20260810T233000
+LOCATION:美国
+SUMMARY:📊 美国 8月10日 3个月期国债竞拍-总金额 (亿美元)
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 8月10日 3个月期国债竞拍-中标利率 (%): 前值:  | 预测: - | 公布: -\n-- 美国 8月10日 3个月期国债竞拍-投标倍数 (亿美元): 前值:  | 预测: - | 公布: -\n-- 美国 8月10日 3个月期国债竞拍-高配置百分比 (%): 前值:  | 预测: - | 公布: -
+UID:fx678-20260810-71854d59
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 8月10日 3个月期国债竞拍-总金额 (亿美元)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -159,4 +159,52 @@ ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 6月 领先指标读数变动初值
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260810T075000
+DTEND;TZID=Asia/Shanghai:20260810T075000
+LOCATION:日本
+SUMMARY:📊 日本 7月 季调后银行贷款年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 5.7 | 预测: - | 公布: -\n-- 日本 7月 季调后除信金外银行贷款年率 (%): 前值: 6.3 | 预测: - | 公布: -
+UID:fx678-20260810-6e9afdea
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 7月 季调后银行贷款年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260810T075000
+DTEND;TZID=Asia/Shanghai:20260810T075000
+LOCATION:日本
+SUMMARY:📊 日本 6月 未季调经常帐 (亿日元)
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 39683 | 预测: - | 公布: -\n-- 日本 6月 季调后经常帐 (亿日元): 前值: 30645 | 预测: - | 公布: -\n-- 日本 6月 经常帐分项-商品 (亿日元): 前值: 68.75 | 预测: - | 公布: -\n-- 日本 6月 贸易收支-央行基于海关数据季调后 (亿日元) ★★★: 前值: 20.45 | 预测: - | 公布: -
+UID:fx678-20260810-7fca48c1
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 6月 未季调经常帐 (亿日元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260810T123000
+DTEND;TZID=Asia/Shanghai:20260810T123000
+LOCATION:日本
+SUMMARY:📊 日本 7月 企业破产年率 (%) （10-11日）
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 20.4 | 预测: - | 公布: -\n-- 日本 7月 企业破产件数 (件): 前值: 1021 | 预测: - | 公布: -
+UID:fx678-20260810-2913c996
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 7月 企业破产年率 (%) （10-11日）
+END:VALARM
+END:VEVENT
 END:VCALENDAR
