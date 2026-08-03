@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260803T094500
 DTEND;TZID=Asia/Shanghai:20260803T094500
 LOCATION:中国
 SUMMARY:📊 中国 7月 SPGI制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 51.7 | 预测: 51.5 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 51.7 | 预测: 51.5 | 公布: 50.9
 UID:fx678-20260803-56d8ac86
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -32,19 +32,19 @@ DESCRIPTION:📊 中国 7月 SPGI制造业PMI
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260803T161600
-DTEND;TZID=Asia/Shanghai:20260803T161600
+DTSTART;TZID=Asia/Shanghai:20260804T101600
+DTEND;TZID=Asia/Shanghai:20260804T101600
 LOCATION:中国
-SUMMARY:📊 中国 2025年 非洲贸易指数 (0803-0807不定时)
+SUMMARY:📊 中国 2025年 非洲贸易指数 (0804-0807不定时)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1056.53 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易规模指标: 前值: 1960.51 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易密切指标: 前值: 294.98 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易结构指标: 前值: 149.14 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易潜力指标: 前值: 795.57 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易活力指标: 前值: 939.69 | 预测: - | 公布: -
-UID:fx678-20260803-7feafbd7
+UID:fx678-20260804-09a0d0b1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 2025年 非洲贸易指数 (0803-0807不定时)
+DESCRIPTION:📊 中国 2025年 非洲贸易指数 (0804-0807不定时)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -84,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260807T093000
 DTEND;TZID=Asia/Shanghai:20260807T093000
 LOCATION:中国
 SUMMARY:📊 中国 7月 贸易帐-美元计价 (亿美元) (0807当天不定时)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1256.2 | 预测: - | 公布: -\n-- 中国 7月 出口年率-美元计价 (%) (0807当天不定时) ★★★: 前值: 27 | 预测: 24.5 | 公布: -\n-- 中国 7月 进口年率-美元计价 (%) (0807当天不定时) ★★★: 前值: 36 | 预测: 27.7 | 公布: -\n-- 中国 7月 进口总额-美元计价 (亿美元): 前值: 2867.6 | 预测: - | 公布: -\n-- 中国 7月 出口总额-美元计价 (亿美元): 前值: 4123.9 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1256.2 | 预测: 1080 | 公布: -\n-- 中国 7月 出口年率-美元计价 (%) (0807当天不定时) ★★★: 前值: 27 | 预测: 22.7 | 公布: -\n-- 中国 7月 进口年率-美元计价 (%) (0807当天不定时) ★★★: 前值: 36 | 预测: 28.6 | 公布: -\n-- 中国 7月 进口总额-美元计价 (亿美元): 前值: 2867.6 | 预测: - | 公布: -\n-- 中国 7月 出口总额-美元计价 (亿美元): 前值: 4123.9 | 预测: - | 公布: -
 UID:fx678-20260807-7c561583
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -164,7 +164,7 @@ DTSTART;TZID=Asia/Shanghai:20260809T093000
 DTEND;TZID=Asia/Shanghai:20260809T093000
 LOCATION:中国
 SUMMARY:📊 中国 7月 PPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 4.1 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 4.1 | 预测: 3.8 | 公布: -
 UID:fx678-20260809-3b9f6ec5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -180,7 +180,7 @@ DTSTART;TZID=Asia/Shanghai:20260809T093000
 DTEND;TZID=Asia/Shanghai:20260809T093000
 LOCATION:中国
 SUMMARY:📊 中国 7月 CPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1 | 预测: - | 公布: -\n-- 中国 7月 CPI月率 (%): 前值: -0.3 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1 | 预测: 0.8 | 公布: -\n-- 中国 7月 CPI月率 (%): 前值: -0.3 | 预测: - | 公布: -
 UID:fx678-20260809-250fcb6f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -212,7 +212,7 @@ DTSTART;TZID=Asia/Shanghai:20260810T085800
 DTEND;TZID=Asia/Shanghai:20260810T085800
 LOCATION:中国
 SUMMARY:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%) (0810-0817)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值:  | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -5 | 预测: - | 公布: -
 UID:fx678-20260810-32e07ae9
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

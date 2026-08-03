@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260803T160000
 DTEND;TZID=Asia/Shanghai:20260803T160000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 7月 SPGI制造业PMI终值
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 52 | 预测: 52 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 52 | 预测: 52 | 公布: 51.9
 UID:fx678-20260803-0a67bff3
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -52,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260805T170000
 DTEND;TZID=Asia/Shanghai:20260805T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 6月 PPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 5.9 | 预测: - | 公布: -\n-- 欧元区 6月 PPI月率 (%): 前值: 0.2 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 5.9 | 预测: 4.6 | 公布: -\n-- 欧元区 6月 PPI月率 (%): 前值: 0.2 | 预测: -0.2 | 公布: -
 UID:fx678-20260805-357a8ef4
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -84,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260806T170000
 DTEND;TZID=Asia/Shanghai:20260806T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 6月 零售销售月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 0.2 | 预测: 0.2 | 公布: -\n-- 欧元区 6月 零售销售年率 (%) ★★★: 前值: 1.6 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 0.2 | 预测: 0.2 | 公布: -\n-- 欧元区 6月 零售销售年率 (%) ★★★: 前值: 1.6 | 预测: 1 | 公布: -
 UID:fx678-20260806-3cb18fd1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
