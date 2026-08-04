@@ -16,27 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260803T083000
-DTEND;TZID=Asia/Shanghai:20260803T083000
-LOCATION:日本
-SUMMARY:📊 日本 7月 Jibun制造业PMI终值
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 54.7 | 预测: - | 公布: 54.5
-UID:fx678-20260803-557b4419
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 7月 Jibun制造业PMI终值
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260804T075000
 DTEND;TZID=Asia/Shanghai:20260804T075000
 LOCATION:日本
 SUMMARY:📊 日本 7月 基础货币年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -13.7 | 预测: - | 公布: -\n-- 日本 7月 基础货币额 (万亿日元): 前值: 559.98 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -13.7 | 预测: - | 公布: -13.8\n-- 日本 7月 基础货币额 (万亿日元): 前值: 559.98 | 预测: - | 公布: 557.57
 UID:fx678-20260804-43cb105c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -205,6 +189,38 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 7月 企业破产年率 (%) （10-11日）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260812T075000
+DTEND;TZID=Asia/Shanghai:20260812T075000
+LOCATION:日本
+SUMMARY:📊 日本 7月 季调后L广义货币 (万亿日元)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 2327.9 | 预测: - | 公布: -\n-- 日本 7月 M2货币供应量 (万亿日元): 前值: 129180.97 | 预测: - | 公布: -\n-- 日本 7月 M2货币供应年率 (%): 前值: 2.2 | 预测: - | 公布: -\n-- 日本 7月 M3货币供应年率 (%): 前值: 1.5 | 预测: - | 公布: -\n-- 日本 7月 广义货币流动性年率 (%): 前值: 4.5 | 预测: - | 公布: -
+UID:fx678-20260812-6183e483
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 7月 季调后L广义货币 (万亿日元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260812T110000
+DTEND;TZID=Asia/Shanghai:20260812T110000
+LOCATION:日本
+SUMMARY:📊 日本 截至8月8日当周 PAJ商业原油库存变动 (万千升)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至8月8日当周 PAJ汽油库存变动-GAS (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月8日当周 PAJ石脑油库存变动-NAP (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月8日当周 PAJ煤油库存变动-KER (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月8日当周 PAJ精炼厂平均开工率 (%): 前值:  | 预测: - | 公布: -
+UID:fx678-20260812-39e65422
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 截至8月8日当周 PAJ商业原油库存变动 (万千升)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
