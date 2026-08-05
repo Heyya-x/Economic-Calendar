@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260805T201500
 DTEND;TZID=Asia/Shanghai:20260805T201500
 LOCATION:美国
 SUMMARY:📊 美国 7月 ADP就业人数变动 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 9.8 | 预测: 7 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 9.8 | 预测: 7 | 公布: 4.4
 UID:fx678-20260805-0bba5db1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260805T220000
 DTEND;TZID=Asia/Shanghai:20260805T220000
 LOCATION:美国
 SUMMARY:📊 美国 7月 ISM非制造业PMI
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54 | 预测: 54.5 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 54 | 预测: 54.5 | 公布: 54.1
 UID:fx678-20260805-2cdb09fa
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +100,7 @@ DTSTART;TZID=Asia/Shanghai:20260812T203000
 DTEND;TZID=Asia/Shanghai:20260812T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 CPI年率未季调 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.5 | 预测: - | 公布: -\n-- 美国 7月 核心CPI年率未季调 (%) ★★★: 前值: 2.6 | 预测: - | 公布: -\n-- 美国 7月 能源CPI年率-未季调 (%) ★★★: 前值: 15.7 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.5 | 预测: 3.4 | 公布: -\n-- 美国 7月 核心CPI年率未季调 (%) ★★★: 前值: 2.6 | 预测: 2.5 | 公布: -\n-- 美国 7月 能源CPI年率-未季调 (%) ★★★: 前值: 15.7 | 预测: - | 公布: -
 UID:fx678-20260812-35cc18da
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -109,6 +109,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 7月 CPI年率未季调 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260813T203000
+DTEND;TZID=Asia/Shanghai:20260813T203000
+LOCATION:美国
+SUMMARY:📊 美国 7月 PPI年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 5.5 | 预测: - | 公布: -\n-- 美国 7月 核心PPI年率 (%) ★★★: 前值: 4.7 | 预测: - | 公布: -
+UID:fx678-20260813-37a1efb8
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 7月 PPI年率 (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

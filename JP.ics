@@ -16,27 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260804T075000
-DTEND;TZID=Asia/Shanghai:20260804T075000
-LOCATION:日本
-SUMMARY:📊 日本 7月 基础货币年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -13.7 | 预测: - | 公布: -13.8\n-- 日本 7月 基础货币额 (万亿日元): 前值: 559.98 | 预测: - | 公布: 557.57
-UID:fx678-20260804-43cb105c
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 7月 基础货币年率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260805T073000
 DTEND;TZID=Asia/Shanghai:20260805T073000
 LOCATION:日本
 SUMMARY:📊 日本 6月 劳动现金收入年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3.2 | 预测: 3.5 | 公布: -\n-- 日本 6月 加班工资年率 (%): 前值: 2.9 | 预测: - | 公布: -\n-- 日本 6月 实际薪资收入年率 (%): 前值: 1.4 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 3.2 | 预测: 3.5 | 公布: 3.4\n-- 日本 6月 加班工资年率 (%): 前值: 2.9 | 预测: - | 公布: 2.8\n-- 日本 6月 实际薪资收入年率 (%): 前值: 1.4 | 预测: - | 公布: 1.6
 UID:fx678-20260805-609c27a2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -52,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260805T083000
 DTEND;TZID=Asia/Shanghai:20260805T083000
 LOCATION:日本
 SUMMARY:📊 日本 7月 Jibun综合PMI终值
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 53.1 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 53.1 | 预测: - | 公布: 52.7
 UID:fx678-20260805-105465e9
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -68,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260805T083000
 DTEND;TZID=Asia/Shanghai:20260805T083000
 LOCATION:日本
 SUMMARY:📊 日本 7月 Jibun服务业PMI终值
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 51.9 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 51.9 | 预测: - | 公布: 51.2
 UID:fx678-20260805-721accfd
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -221,6 +205,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 截至8月8日当周 PAJ商业原油库存变动 (万千升)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260813T075000
+DTEND;TZID=Asia/Shanghai:20260813T075000
+LOCATION:日本
+SUMMARY:📊 日本 7月 PPI月率 (%)
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.4 | 预测: - | 公布: -\n-- 日本 7月 PPI年率 (%): 前值: 7.1 | 预测: - | 公布: -
+UID:fx678-20260813-654434c8
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 日本 7月 PPI月率 (%)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

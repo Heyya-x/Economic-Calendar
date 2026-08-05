@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260805T155500
 DTEND;TZID=Asia/Shanghai:20260805T155500
 LOCATION:德国
 SUMMARY:📊 德国 7月 SPGI服务业PMI终值
-DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 49.6 | 预测: 49.6 | 公布: -\n-- 德国 7月 SPGI综合PMI终值: 前值: 51.2 | 预测: 51.2 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 德国\n前值: 49.6 | 预测: 49.6 | 公布: 49.8\n-- 德国 7月 SPGI综合PMI终值: 前值: 51.2 | 预测: 51.2 | 公布: 51.3
 UID:fx678-20260805-0abac3d0
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
