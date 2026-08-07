@@ -16,11 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260807T093000
-DTEND;TZID=Asia/Shanghai:20260807T093000
+DTSTART;TZID=Asia/Shanghai:20260807T103000
+DTEND;TZID=Asia/Shanghai:20260807T103000
 LOCATION:中国
 SUMMARY:📊 中国 7月 贸易帐-美元计价 (亿美元) (0807当天不定时)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1256.2 | 预测: 1080 | 公布: -\n-- 中国 7月 出口年率-美元计价 (%) (0807当天不定时) ★★★: 前值: 27 | 预测: 22.7 | 公布: -\n-- 中国 7月 进口年率-美元计价 (%) (0807当天不定时) ★★★: 前值: 36 | 预测: 28.6 | 公布: -\n-- 中国 7月 进口总额-美元计价 (亿美元): 前值: 2867.6 | 预测: - | 公布: -\n-- 中国 7月 出口总额-美元计价 (亿美元): 前值: 4123.9 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1256.2 | 预测: 1070 | 公布: 1125\n-- 中国 7月 出口年率-美元计价 (%) (0807当天不定时) ★★★: 前值: 27 | 预测: 22.2 | 公布: 23\n-- 中国 7月 进口年率-美元计价 (%) (0807当天不定时) ★★★: 前值: 36 | 预测: 27.9 | 公布: 27.5\n-- 中国 7月 进口总额-美元计价 (亿美元): 前值: 2867.6 | 预测: - | 公布: 2853.5\n-- 中国 7月 出口总额-美元计价 (亿美元): 前值: 4123.9 | 预测: - | 公布: 3978.5
 UID:fx678-20260807-7c561583
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -32,11 +32,11 @@ DESCRIPTION:📊 中国 7月 贸易帐-美元计价 (亿美元) (0807当天不�
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260807T093000
-DTEND;TZID=Asia/Shanghai:20260807T093000
+DTSTART;TZID=Asia/Shanghai:20260807T103000
+DTEND;TZID=Asia/Shanghai:20260807T103000
 LOCATION:中国
 SUMMARY:📊 中国 7月 贸易帐-人民币计价 (亿元) (0807当天不定时)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 8590.5 | 预测: - | 公布: -\n-- 中国 7月 出口年率-人民币计价 (%) (0807当天不定时) ★★★: 前值: 29.4 | 预测: - | 公布: -\n-- 中国 7月 进口年率-人民币计价 (%) (0807当天不定时) ★★★: 前值: 20.8 | 预测: - | 公布: -\n-- 中国 7月 进口总额-人民币计价 (亿元): 前值: 19616.2 | 预测: - | 公布: -\n-- 中国 7月 出口总额-人民币计价 (亿元): 前值: 28206.7 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 8590.5 | 预测: - | 公布: 7670.7\n-- 中国 7月 出口年率-人民币计价 (%) (0807当天不定时) ★★★: 前值: 29.4 | 预测: - | 公布: 17.8\n-- 中国 7月 进口年率-人民币计价 (%) (0807当天不定时) ★★★: 前值: 20.8 | 预测: - | 公布: 21.2\n-- 中国 7月 进口总额-人民币计价 (亿元): 前值: 19616.2 | 预测: - | 公布: 19454.4\n-- 中国 7月 出口总额-人民币计价 (亿元): 前值: 28206.7 | 预测: - | 公布: 27125.1
 UID:fx678-20260807-46170c09
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -52,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260807T110000
 DTEND;TZID=Asia/Shanghai:20260807T110000
 LOCATION:中国
 SUMMARY:📊 中国 7月 原油进口量-能源 (万吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 2927.2 | 预测: - | 公布: -\n-- 中国 7月 成品油出口量-精炼石油产品-能源 (万吨): 前值: 4536.1 | 预测: - | 公布: -\n-- 中国 7月 成品油进口量-精炼石油产品-能源 (万吨) ★★★: 前值: 173.7 | 预测: - | 公布: -\n-- 中国 7月 天然气进口-能源 (万吨): 前值: 1093.1 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 2927.2 | 预测: - | 公布: 3572.6\n-- 中国 7月 成品油出口量-精炼石油产品-能源 (万吨): 前值: 4536.1 | 预测: - | 公布: 465.3\n-- 中国 7月 成品油进口量-精炼石油产品-能源 (万吨) ★★★: 前值: 173.7 | 预测: - | 公布: 247.7\n-- 中国 7月 天然气进口-能源 (万吨): 前值: 1093.1 | 预测: - | 公布: 1054
 UID:fx678-20260807-64099c1c
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -64,27 +64,11 @@ DESCRIPTION:📊 中国 7月 原油进口量-能源 (万吨)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260807T110000
-DTEND;TZID=Asia/Shanghai:20260807T110000
-LOCATION:中国
-SUMMARY:📊 中国 7月 液化天然气进口量-能源 (万吨)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 568 | 预测: - | 公布: -\n-- 中国 7月 柴油出口量-能源 (万吨): 前值: 43 | 预测: - | 公布: -\n-- 中国 7月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: -
-UID:fx678-20260807-050c5aec
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 7月 液化天然气进口量-能源 (万吨)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260807T160000
 DTEND;TZID=Asia/Shanghai:20260807T160000
 LOCATION:中国
 SUMMARY:📊 中国 7月 外汇储备 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 34160 | 预测: 34220 | 公布: -\n-- 中国 7月 黄金储备量 (万盎司) ★★★: 前值: 7544 | 预测: - | 公布: -\n-- 中国 7月 黄金储备-美元计价 (亿美元): 前值: 3037 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 34160 | 预测: 34220 | 公布: 34190\n-- 中国 7月 黄金储备量 (万盎司) ★★★: 前值: 7544 | 预测: - | 公布: 7608\n-- 中国 7月 黄金储备-美元计价 (亿美元): 前值: 3037 | 预测: - | 公布: 3063
 UID:fx678-20260807-4beab4d2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -144,8 +128,8 @@ DESCRIPTION:📊 中国 7月 PPI月率 (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260810T085800
-DTEND;TZID=Asia/Shanghai:20260810T085800
+DTSTART;TZID=Asia/Shanghai:20260810T150000
+DTEND;TZID=Asia/Shanghai:20260810T150000
 LOCATION:中国
 SUMMARY:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%) (0810-0817)
 DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -5 | 预测: - | 公布: -

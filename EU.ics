@@ -16,43 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260806T153000
-DTEND;TZID=Asia/Shanghai:20260806T153000
-LOCATION:欧元区
-SUMMARY:📊 欧元区 7月 SPGI建筑业PMI
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 42.8 | 预测: - | 公布: 44.3
-UID:fx678-20260806-5d2be2cd
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 欧元区 7月 SPGI建筑业PMI
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260806T170000
-DTEND;TZID=Asia/Shanghai:20260806T170000
-LOCATION:欧元区
-SUMMARY:📊 欧元区 6月 零售销售月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 0.2 | 预测: 0.1 | 公布: -0.3\n-- 欧元区 6月 零售销售年率 (%) ★★★: 前值: 1.6 | 预测: 1 | 公布: 0.7
-UID:fx678-20260806-3cb18fd1
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 欧元区 6月 零售销售月率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260810T163000
 DTEND;TZID=Asia/Shanghai:20260810T163000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 Sentix投资者信心指数
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -3.1 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -3.1 | 预测: -1.2 | 公布: -
 UID:fx678-20260810-40d16343
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -68,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260813T170000
 DTEND;TZID=Asia/Shanghai:20260813T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 6月 季调后工业产出月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: -0.2 | 预测: - | 公布: -\n-- 欧元区 6月 工作日调整后工业产出年率 (%): 前值: -1.2 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: -0.2 | 预测: 0 | 公布: -\n-- 欧元区 6月 工作日调整后工业产出年率 (%): 前值: -1.2 | 预测: - | 公布: -
 UID:fx678-20260813-2b9e82f2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -132,7 +100,7 @@ DTSTART;TZID=Asia/Shanghai:20260814T170000
 DTEND;TZID=Asia/Shanghai:20260814T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 第二季度 季调后GDP季率修正值 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 0.4 | 预测: 0.4 | 公布: -\n-- 欧元区 第二季度 季调后GDP年率修正值 (%) ★★★: 前值: 1 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 0.4 | 预测: 0.4 | 公布: -\n-- 欧元区 第二季度 季调后GDP年率修正值 (%) ★★★: 前值: 1 | 预测: 1 | 公布: -
 UID:fx678-20260814-14dce760
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

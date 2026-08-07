@@ -16,27 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260806T075000
-DTEND;TZID=Asia/Shanghai:20260806T075000
-LOCATION:日本
-SUMMARY:📊 日本 截至7月31日当周 买进外国债券 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -8114 | 预测: - | 公布: 4779\n-- 日本 截至7月31日当周 买进外国股票 (亿日元): 前值: 3202 | 预测: - | 公布: -2764\n-- 日本 截至7月31日当周 外资买进日债 (亿日元): 前值: -15139 | 预测: - | 公布: 5589\n-- 日本 截至7月31日当周 外资买进日股 (亿日元): 前值: 9121 | 预测: - | 公布: -3925
-UID:fx678-20260806-5a9586d2
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 截至7月31日当周 买进外国债券 (亿日元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260807T073000
 DTEND;TZID=Asia/Shanghai:20260807T073000
 LOCATION:日本
 SUMMARY:📊 日本 6月 所有家庭支出年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -0.3 | 预测: 1 | 公布: -\n-- 日本 6月 所有家庭支出月率 (%): 前值: 3.7 | 预测: -3.1 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: -0.3 | 预测: 1 | 公布: -3.3\n-- 日本 6月 所有家庭支出月率 (%): 前值: 3.7 | 预测: -3.1 | 公布: -6.4
 UID:fx678-20260807-20f856b7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -52,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260807T075000
 DTEND;TZID=Asia/Shanghai:20260807T075000
 LOCATION:日本
 SUMMARY:📊 日本 7月 外汇储备 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 12875 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 12875 | 预测: - | 公布: 12871
 UID:fx678-20260807-44a7dc87
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -68,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260807T130000
 DTEND;TZID=Asia/Shanghai:20260807T130000
 LOCATION:日本
 SUMMARY:📊 日本 6月 领先指标读数变动初值
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.4 | 预测: - | 公布: -\n-- 日本 6月 同步指标读数变动初值: 前值: -0.2 | 预测: - | 公布: -\n-- 日本 6月 同步指标初值: 前值: 117.9 | 预测: - | 公布: -\n-- 日本 6月 领先指标初值: 前值: 116.5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.4 | 预测: - | 公布: 0\n-- 日本 6月 同步指标读数变动初值: 前值: -0.2 | 预测: - | 公布: 0.3\n-- 日本 6月 同步指标初值: 前值: 117.9 | 预测: - | 公布: 118.2\n-- 日本 6月 领先指标初值: 前值: 116.5 | 预测: - | 公布: 116.4
 UID:fx678-20260807-7e107319
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260810T075000
 DTEND;TZID=Asia/Shanghai:20260810T075000
 LOCATION:日本
 SUMMARY:📊 日本 6月 未季调经常帐 (亿日元)
-DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 39683 | 预测: - | 公布: -\n-- 日本 6月 季调后经常帐 (亿日元): 前值: 30645 | 预测: - | 公布: -\n-- 日本 6月 经常帐分项-商品 (亿日元): 前值: 68.75 | 预测: - | 公布: -\n-- 日本 6月 贸易收支-央行基于海关数据季调后 (亿日元) ★★★: 前值: 20.45 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n重要性: ★★★\n前值: 39683 | 预测: 15120 | 公布: -\n-- 日本 6月 季调后经常帐 (亿日元): 前值: 30645 | 预测: 25286 | 公布: -\n-- 日本 6月 经常帐分项-商品 (亿日元): 前值: 68.75 | 预测: -708 | 公布: -\n-- 日本 6月 贸易收支-央行基于海关数据季调后 (亿日元) ★★★: 前值: 20.45 | 预测: - | 公布: -
 UID:fx678-20260810-7fca48c1
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -160,27 +144,11 @@ DESCRIPTION:📊 日本 7月 季调后L广义货币 (万亿日元)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260812T110000
-DTEND;TZID=Asia/Shanghai:20260812T110000
-LOCATION:日本
-SUMMARY:📊 日本 截至8月8日当周 PAJ商业原油库存变动 (万千升)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值:  | 预测: - | 公布: -\n-- 日本 截至8月8日当周 PAJ汽油库存变动-GAS (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月8日当周 PAJ石脑油库存变动-NAP (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月8日当周 PAJ煤油库存变动-KER (万千升): 前值:  | 预测: - | 公布: -\n-- 日本 截至8月8日当周 PAJ精炼厂平均开工率 (%): 前值:  | 预测: - | 公布: -
-UID:fx678-20260812-39e65422
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 截至8月8日当周 PAJ商业原油库存变动 (万千升)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260813T075000
 DTEND;TZID=Asia/Shanghai:20260813T075000
 LOCATION:日本
 SUMMARY:📊 日本 7月 PPI月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.4 | 预测: - | 公布: -\n-- 日本 7月 PPI年率 (%): 前值: 7.1 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 0.4 | 预测: 0.6 | 公布: -\n-- 日本 7月 PPI年率 (%): 前值: 7.1 | 预测: 7.4 | 公布: -
 UID:fx678-20260813-654434c8
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -205,22 +173,6 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 日本 截至8月7日当周 买进外国债券 (亿日元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260814T100000
-DTEND;TZID=Asia/Shanghai:20260814T100000
-LOCATION:日本
-SUMMARY:📊 日本 8月 主消费者情绪指标
-DESCRIPTION:📊 财经数据\n区域: 日本\n前值: 39.75 | 预测: - | 公布: -
-UID:fx678-20260814-2028dbfe
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 日本 8月 主消费者情绪指标
 END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -16,27 +16,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260806T203000
-DTEND;TZID=Asia/Shanghai:20260806T203000
-LOCATION:美国
-SUMMARY:📊 美国 截至8月1日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.7 | 预测: 20.2 | 公布: 19.9\n-- 美国 截至7月25日当周 续请失业金人数 (万) ★★★: 前值: 178.2 | 预测: 179 | 公布: 180.1
-UID:fx678-20260806-347692f5
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至8月1日当周 初请失业金人数 (万)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260807T203000
 DTEND;TZID=Asia/Shanghai:20260807T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 非农就业人口变动季调后 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 5.7 | 预测: 8 | 公布: -\n-- 美国 7月 平均每小时工资年率 (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: -\n-- 美国 7月 私营企业非农就业人数变动 (万) ★★★: 前值: 4.9 | 预测: 7.8 | 公布: -\n-- 美国 7月 劳动参与率 (%) ★★★: 前值: 61.5 | 预测: 61.5 | 公布: -\n-- 美国 7月 制造业就业人口变动季调后 (万) ★★★: 前值: 0.3 | 预测: 0.4 | 公布: -\n-- 美国 7月 失业率 (%) ★★★: 前值: 4.2 | 预测: 4.2 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.0修正前5.7 | 预测: 8 | 公布: -2.3\n-- 美国 7月 平均每小时工资年率 (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: 3.2\n-- 美国 7月 私营企业非农就业人数变动 (万) ★★★: 前值: 3.0修正前4.9 | 预测: 7.8 | 公布: 3\n-- 美国 7月 劳动参与率 (%) ★★★: 前值: 61.5 | 预测: 61.5 | 公布: 61.4\n-- 美国 7月 制造业就业人口变动季调后 (万) ★★★: 前值: 1.1修正前0.3 | 预测: 0.4 | 公布: 0.5\n-- 美国 7月 失业率 (%) ★★★: 前值: 4.2 | 预测: 4.2 | 公布: 4.1
 UID:fx678-20260807-1f7ecd39
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -96,11 +80,27 @@ DESCRIPTION:📊 美国 7月 PPI年率 (%)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260813T203000
+DTEND;TZID=Asia/Shanghai:20260813T203000
+LOCATION:美国
+SUMMARY:📊 美国 截至8月8日当周 初请失业金人数 (万)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.9 | 预测: - | 公布: -\n-- 美国 截至8月1日当周 续请失业金人数 (万) ★★★: 前值: 180.1 | 预测: - | 公布: -
+UID:fx678-20260813-7412ff86
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 截至8月8日当周 初请失业金人数 (万)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260814T203000
 DTEND;TZID=Asia/Shanghai:20260814T203000
 LOCATION:美国
 SUMMARY:📊 美国 7月 零售销售月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.2 | 预测: - | 公布: -\n-- 美国 7月 核心零售销售月率 (%) ★★★: 前值: -0.2 | 预测: - | 公布: -\n-- 美国 7月 零售销售年率 (%) ★★★: 前值: 6.72 | 预测: - | 公布: -\n-- 美国 7月 关联GDP的零售额控制组月率-季调后 (%) ★★★: 前值: 0.5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.2 | 预测: 0.3 | 公布: -\n-- 美国 7月 核心零售销售月率 (%) ★★★: 前值: -0.2 | 预测: 0.2 | 公布: -\n-- 美国 7月 零售销售年率 (%) ★★★: 前值: 6.72 | 预测: - | 公布: -\n-- 美国 7月 关联GDP的零售额控制组月率-季调后 (%) ★★★: 前值: 0.5 | 预测: 0.3 | 公布: -
 UID:fx678-20260814-2f60a675
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -116,7 +116,7 @@ DTSTART;TZID=Asia/Shanghai:20260814T220000
 DTEND;TZID=Asia/Shanghai:20260814T220000
 LOCATION:美国
 SUMMARY:📊 美国 8月 密歇根大学消费者信心指数初值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 55.2 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 55.2 | 预测: 54 | 公布: -
 UID:fx678-20260814-571a70f5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
