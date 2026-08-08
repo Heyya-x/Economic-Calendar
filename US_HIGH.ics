@@ -16,54 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260807T043000
-DTEND;TZID=Asia/Shanghai:20260807T043000
-LOCATION:美国
-SUMMARY:📊 美国 截至8月5日 美联储资产负债表 (万亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 6.74 | 预测: - | 公布: 6.75
-UID:fx678-20260807-4092124b
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至8月5日 美联储资产负债表 (万亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260807T203000
-DTEND;TZID=Asia/Shanghai:20260807T203000
-LOCATION:美国
-SUMMARY:📊 美国 7月 非农就业人口变动季调后 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.0修正前5.7 | 预测: 8 | 公布: -2.3\n-- 美国 7月 平均每小时工资年率 (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: 3.2\n-- 美国 7月 私营企业非农就业人数变动 (万) ★★★: 前值: 3.0修正前4.9 | 预测: 7.8 | 公布: 3\n-- 美国 7月 劳动参与率 (%) ★★★: 前值: 61.5 | 预测: 61.5 | 公布: 61.4\n-- 美国 7月 制造业就业人口变动季调后 (万) ★★★: 前值: 1.1修正前0.3 | 预测: 0.4 | 公布: 0.5\n-- 美国 7月 失业率 (%) ★★★: 前值: 4.2 | 预测: 4.2 | 公布: 4.1
-UID:fx678-20260807-1f7ecd39
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月 非农就业人口变动季调后 (万)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260807T230000
-DTEND;TZID=Asia/Shanghai:20260807T230000
-LOCATION:美国
-SUMMARY:📊 美国 7月 纽约联储1年通胀预期 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: 3.6\n-- 美国 7月 纽约联储3年通胀预期 (%) ★★★: 前值: 3.3 | 预测: - | 公布: 3.3\n-- 美国 7月 纽约联储1年黄金涨幅预期 (%) ★★★: 前值: 5.2 | 预测: - | 公布: 4.6
-UID:fx678-20260807-476c1991
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月 纽约联储1年通胀预期 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260808T010000
 DTEND;TZID=Asia/Shanghai:20260808T010000
 LOCATION:美国

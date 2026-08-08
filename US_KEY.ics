@@ -16,22 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260807T203000
-DTEND;TZID=Asia/Shanghai:20260807T203000
-LOCATION:美国
-SUMMARY:📊 美国 7月 非农就业人口变动季调后 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.0修正前5.7 | 预测: 8 | 公布: -2.3\n-- 美国 7月 平均每小时工资年率 (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: 3.2\n-- 美国 7月 私营企业非农就业人数变动 (万) ★★★: 前值: 3.0修正前4.9 | 预测: 7.8 | 公布: 3\n-- 美国 7月 劳动参与率 (%) ★★★: 前值: 61.5 | 预测: 61.5 | 公布: 61.4\n-- 美国 7月 制造业就业人口变动季调后 (万) ★★★: 前值: 1.1修正前0.3 | 预测: 0.4 | 公布: 0.5\n-- 美国 7月 失业率 (%) ★★★: 前值: 4.2 | 预测: 4.2 | 公布: 4.1
-UID:fx678-20260807-1f7ecd39
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月 非农就业人口变动季调后 (万)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260811T201500
 DTEND;TZID=Asia/Shanghai:20260811T201500
 LOCATION:美国

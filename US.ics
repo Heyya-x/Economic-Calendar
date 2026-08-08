@@ -16,86 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260807T043000
-DTEND;TZID=Asia/Shanghai:20260807T043000
-LOCATION:美国
-SUMMARY:📊 美国 截至8月5日 美联储资产负债表 (万亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 6.74 | 预测: - | 公布: 6.75
-UID:fx678-20260807-4092124b
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至8月5日 美联储资产负债表 (万亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260807T043000
-DTEND;TZID=Asia/Shanghai:20260807T043000
-LOCATION:美国
-SUMMARY:📊 美国 截至8月1日当周 外国央行持有美国国债 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 339.02 | 预测: - | 公布: -255.34
-UID:fx678-20260807-6c849dc4
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至8月1日当周 外国央行持有美国国债 (亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260807T063000
-DTEND;TZID=Asia/Shanghai:20260807T063000
-LOCATION:美国
-SUMMARY:📊 美国 8月5日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3988.95 | 预测: - | 公布: 3988.95\n-- 美国 8月5日 NYMEX铂金库存变动-每日 (百盎司): 前值: 18.76 | 预测: - | 公布: 0\n-- 美国 8月5日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2546.82 | 预测: - | 公布: 2546.82\n-- 美国 8月5日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0
-UID:fx678-20260807-7b7eb1d4
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 8月5日 NYMEX铂金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260807T203000
-DTEND;TZID=Asia/Shanghai:20260807T203000
-LOCATION:美国
-SUMMARY:📊 美国 7月 非农就业人口变动季调后 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.0修正前5.7 | 预测: 8 | 公布: -2.3\n-- 美国 7月 平均每小时工资月率 (%): 前值: 0.3 | 预测: 0.3 | 公布: 0.1\n-- 美国 7月 平均每小时工资年率 (%) ★★★: 前值: 3.5 | 预测: 3.5 | 公布: 3.2\n-- 美国 7月 平均每周工时 (小时): 前值: 34.3 | 预测: 34.3 | 公布: 34.3\n-- 美国 7月 私营企业非农就业人数变动 (万) ★★★: 前值: 3.0修正前4.9 | 预测: 7.8 | 公布: 3\n-- 美国 7月 劳动参与率 (%) ★★★: 前值: 61.5 | 预测: 61.5 | 公布: 61.4\n-- 美国 7月 制造业就业人口变动季调后 (万) ★★★: 前值: 1.1修正前0.3 | 预测: 0.4 | 公布: 0.5\n-- 美国 7月 失业率 (%) ★★★: 前值: 4.2 | 预测: 4.2 | 公布: 4.1\n-- 美国 7月 U6失业率 (%): 前值: 7.9 | 预测: - | 公布: 7.9\n-- 美国 7月 政府部门岗位变动 (万人): 前值: -1.0修正前0.8 | 预测: - | 公布: -5.3
-UID:fx678-20260807-1f7ecd39
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月 非农就业人口变动季调后 (万)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260807T230000
-DTEND;TZID=Asia/Shanghai:20260807T230000
-LOCATION:美国
-SUMMARY:📊 美国 7月 纽约联储1年通胀预期 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: 3.6\n-- 美国 7月 纽约联储1年汽油通胀预期 (%): 前值: 1.5 | 预测: - | 公布: 2.9\n-- 美国 7月 纽约联储1年房价通胀预期 (%): 前值: 3.2 | 预测: - | 公布: 3.2\n-- 美国 7月 纽约联储1年家庭收入增长预期 (%): 前值: 3 | 预测: - | 公布: 3\n-- 美国 7月 纽约联储1年家庭支出增长预期 (%): 前值: 5 | 预测: - | 公布: 4.9\n-- 美国 7月 纽约联储未来3个月无法偿最低债平均预期 (%): 前值: 10.8 | 预测: - | 公布: 12\n-- 美国 7月 纽约联储3年通胀预期 (%) ★★★: 前值: 3.3 | 预测: - | 公布: 3.3\n-- 美国 7月 纽约联储1年黄金涨幅预期 (%) ★★★: 前值: 5.2 | 预测: - | 公布: 4.6
-UID:fx678-20260807-476c1991
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 7月 纽约联储1年通胀预期 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260808T010000
 DTEND;TZID=Asia/Shanghai:20260808T010000
 LOCATION:美国
@@ -132,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260808T063000
 DTEND;TZID=Asia/Shanghai:20260808T063000
 LOCATION:美国
 SUMMARY:📊 美国 8月6日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3988.95 | 预测: - | 公布: -\n-- 美国 8月6日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -\n-- 美国 8月6日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2546.82 | 预测: - | 公布: -\n-- 美国 8月6日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3988.95 | 预测: - | 公布: 3988.95\n-- 美国 8月6日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0\n-- 美国 8月6日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2546.82 | 预测: - | 公布: 2546.82\n-- 美国 8月6日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0
 UID:fx678-20260808-292449ac
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
