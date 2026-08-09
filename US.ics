@@ -16,54 +16,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260808T010000
-DTEND;TZID=Asia/Shanghai:20260808T010000
-LOCATION:美国
-SUMMARY:📊 美国 截至8月7日当周 全美钻井总数 (口)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 588 | 预测: - | 公布: 588\n-- 美国 截至8月7日当周 天然气钻井总数 (口): 前值: 127 | 预测: - | 公布: 124\n-- 美国 截至8月7日当周 石油钻井总数 (口) ★★★: 前值: 451 | 预测: - | 公布: 454\n-- 美国 截至8月7日当周 混杂钻井总数 (口): 前值: 10 | 预测: - | 公布: 10\n-- 北美洲 截至8月7日当周 总钻井总数 (口): 前值: 807 | 预测: - | 公布: 804\n-- 北美洲 截至8月7日当周 墨西哥湾总钻井总数 (口): 前值: 11 | 预测: - | 公布: 12\n-- 加拿大 截至8月7日当周 总钻井数量 (口): 前值: 219 | 预测: - | 公布: 216
-UID:fx678-20260808-15e246c8
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 截至8月7日当周 全美钻井总数 (口)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260808T030000
-DTEND;TZID=Asia/Shanghai:20260808T030000
-LOCATION:美国
-SUMMARY:📊 美国 6月 消费信贷 (亿美元)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: -1.8 | 预测: 105 | 公布: 141.7
-UID:fx678-20260808-0090744d
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 6月 消费信贷 (亿美元)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260808T063000
-DTEND;TZID=Asia/Shanghai:20260808T063000
-LOCATION:美国
-SUMMARY:📊 美国 8月6日 NYMEX铂金库存-每日更新 (百盎司)
-DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 3988.95 | 预测: - | 公布: 3988.95\n-- 美国 8月6日 NYMEX铂金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0\n-- 美国 8月6日 NYMEX钯金库存-每日更新 (百盎司): 前值: 2546.82 | 预测: - | 公布: 2546.82\n-- 美国 8月6日 NYMEX钯金库存变动-每日 (百盎司): 前值: 0 | 预测: - | 公布: 0
-UID:fx678-20260808-292449ac
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 美国 8月6日 NYMEX铂金库存-每日更新 (百盎司)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260810T220000
 DTEND;TZID=Asia/Shanghai:20260810T220000
 LOCATION:美国
@@ -701,6 +653,70 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 8月13日 NYMEX铂金库存-每日更新 (百盎司)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260817T203000
+DTEND;TZID=Asia/Shanghai:20260817T203000
+LOCATION:美国
+SUMMARY:📊 美国 8月 纽约联储制造业指数
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 15.6 | 预测: - | 公布: -\n-- 美国 8月 纽约联储制造业新订单指数: 前值: 22.2 | 预测: - | 公布: -\n-- 美国 8月 纽约联储制造业价格获得指数: 前值: 27.6 | 预测: - | 公布: -\n-- 美国 8月 纽约联储制造业就业指数: 前值: 11.4 | 预测: - | 公布: -\n-- 美国 8月 纽约联储制造业价格支付指数: 前值: 52.3 | 预测: - | 公布: -\n-- 美国 8月 纽约联储制造业未来6个月预期指数 ★★★: 前值: 27.9 | 预测: - | 公布: -
+UID:fx678-20260817-6a76991e
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 8月 纽约联储制造业指数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260817T220000
+DTEND;TZID=Asia/Shanghai:20260817T220000
+LOCATION:美国
+SUMMARY:📊 美国 8月 NAHB房产市场指数
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值: 34 | 预测: - | 公布: -
+UID:fx678-20260817-7c77510d
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 8月 NAHB房产市场指数
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260817T233000
+DTEND;TZID=Asia/Shanghai:20260817T233000
+LOCATION:美国
+SUMMARY:📊 美国 8月17日 6个月期国债竞拍-总金额 (亿美元)
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 8月17日 6个月期国债竞拍-中标利率 (%): 前值:  | 预测: - | 公布: -\n-- 美国 8月17日 6个月期国债竞拍-投标倍数 (亿美元): 前值:  | 预测: - | 公布: -\n-- 美国 8月17日 6个月期国债竞拍-高配置百分比 (%): 前值:  | 预测: - | 公布: -
+UID:fx678-20260817-74470503
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 8月17日 6个月期国债竞拍-总金额 (亿美元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260817T233000
+DTEND;TZID=Asia/Shanghai:20260817T233000
+LOCATION:美国
+SUMMARY:📊 美国 8月17日 3个月期国债竞拍-总金额 (亿美元)
+DESCRIPTION:📊 财经数据\n区域: 美国\n前值:  | 预测: - | 公布: -\n-- 美国 8月17日 3个月期国债竞拍-中标利率 (%): 前值:  | 预测: - | 公布: -\n-- 美国 8月17日 3个月期国债竞拍-投标倍数 (亿美元): 前值:  | 预测: - | 公布: -\n-- 美国 8月17日 3个月期国债竞拍-高配置百分比 (%): 前值:  | 预测: - | 公布: -
+UID:fx678-20260817-721c2000
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 8月17日 3个月期国债竞拍-总金额 (亿美元)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

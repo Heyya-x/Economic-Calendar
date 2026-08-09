@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260809T093000
 DTEND;TZID=Asia/Shanghai:20260809T093000
 LOCATION:中国
 SUMMARY:📊 中国 7月 PPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 4.1 | 预测: 3.8 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 4.1 | 预测: 3.8 | 公布: 3.5
 UID:fx678-20260809-3b9f6ec5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260809T093000
 DTEND;TZID=Asia/Shanghai:20260809T093000
 LOCATION:中国
 SUMMARY:📊 中国 7月 CPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1 | 预测: 0.8 | 公布: -\n-- 中国 7月 CPI月率 (%): 前值: -0.3 | 预测: 0.2 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1 | 预测: 0.8 | 公布: 0.5\n-- 中国 7月 CPI月率 (%): 前值: -0.3 | 预测: 0.2 | 公布: -0.1
 UID:fx678-20260809-250fcb6f
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -52,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260809T093000
 DTEND;TZID=Asia/Shanghai:20260809T093000
 LOCATION:中国
 SUMMARY:📊 中国 7月 PPI月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -0.3 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -0.3 | 预测: - | 公布: -0.7
 UID:fx678-20260809-24681888
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -109,6 +109,134 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 中国 7月 人民币各项贷款余额年率 (%) (0810-0817)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260817T092000
+DTEND;TZID=Asia/Shanghai:20260817T092000
+LOCATION:中国
+SUMMARY:📊 中国 8月17日 中期借贷便利MLF操作规模 (亿元)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 中国 8月17日 中期借贷便利MLF中标利率 (%) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20260817-42bfc65e
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 8月17日 中期借贷便利MLF操作规模 (亿元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260817T100000
+DTEND;TZID=Asia/Shanghai:20260817T100000
+LOCATION:中国
+SUMMARY:📊 中国 7月 城镇固定资产投资年率-年初至今 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -5.7 | 预测: - | 公布: -\n-- 中国 7月 城镇固定资产投资月率 (%): 前值: -0.37 | 预测: - | 公布: -
+UID:fx678-20260817-5fe8e9d7
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 7月 城镇固定资产投资年率-年初至今 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260817T100000
+DTEND;TZID=Asia/Shanghai:20260817T100000
+LOCATION:中国
+SUMMARY:📊 中国 7月 规模以上工业增加值年率-年初至今 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5.4 | 预测: - | 公布: -\n-- 中国 7月 规模以上工业增加值年率-单月 (%) ★★★: 前值: 5.3 | 预测: - | 公布: -\n-- 中国 7月 规模以上工业增加值月率-单月 (%): 前值: 0.8 | 预测: - | 公布: -
+UID:fx678-20260817-423f66ca
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 7月 规模以上工业增加值年率-年初至今 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260817T100000
+DTEND;TZID=Asia/Shanghai:20260817T100000
+LOCATION:中国
+SUMMARY:📊 中国 7月 社会消费品零售总额年率 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1 | 预测: - | 公布: -\n-- 中国 7月 社会消费品零售总额年率-年初至今 (%) ★★★: 前值: 1.33 | 预测: - | 公布: -\n-- 中国 7月 社会消费品零售总额月率 (%) ★★★: 前值: 0.38 | 预测: - | 公布: -
+UID:fx678-20260817-7024a6fd
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 7月 社会消费品零售总额年率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260817T100000
+DTEND;TZID=Asia/Shanghai:20260817T100000
+LOCATION:中国
+SUMMARY:📊 中国 7月 城镇调查失业率 (%)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 5 | 预测: - | 公布: -
+UID:fx678-20260817-25a0b090
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 7月 城镇调查失业率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260817T110000
+DTEND;TZID=Asia/Shanghai:20260817T110000
+LOCATION:中国
+SUMMARY:📊 中国 7月 液化天然气进口量-能源 (万吨)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 568 | 预测: - | 公布: -\n-- 中国 7月 柴油出口量-能源 (万吨): 前值: 43 | 预测: - | 公布: -\n-- 中国 7月 管道天然气进口量-能源 (万吨) ★★★: 前值: 525 | 预测: - | 公布: -
+UID:fx678-20260817-050c5aec
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 7月 液化天然气进口量-能源 (万吨)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260817T141000
+DTEND;TZID=Asia/Shanghai:20260817T141000
+LOCATION:中国
+SUMMARY:📊 中国 7月 全社会用电量年率-每月 (%) (15-20日不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: -\n-- 中国 7月 全社会用电量-每月 (亿千瓦时) (15-20日不定时) ★★★: 前值: 8981 | 预测: - | 公布: -
+UID:fx678-20260817-1fd91f5a
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 7月 全社会用电量年率-每月 (%) (15-20日不定时)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260817T142600
+DTEND;TZID=Asia/Shanghai:20260817T142600
+LOCATION:中国
+SUMMARY:📊 中国 7月 商业银行结售汇-银行代客 (亿元人民币) （不定时）
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: 3913 | 预测: - | 公布: -
+UID:fx678-20260817-0cd43cfb
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 7月 商业银行结售汇-银行代客 (亿元人民币) （不定时）
 END:VALARM
 END:VEVENT
 END:VCALENDAR
