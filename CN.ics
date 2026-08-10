@@ -16,99 +16,51 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260809T093000
-DTEND;TZID=Asia/Shanghai:20260809T093000
+DTSTART;TZID=Asia/Shanghai:20260811T160000
+DTEND;TZID=Asia/Shanghai:20260811T160000
 LOCATION:中国
-SUMMARY:📊 中国 7月 PPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 4.1 | 预测: 3.8 | 公布: 3.5
-UID:fx678-20260809-3b9f6ec5
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 7月 PPI年率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260809T093000
-DTEND;TZID=Asia/Shanghai:20260809T093000
-LOCATION:中国
-SUMMARY:📊 中国 7月 CPI年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1 | 预测: 0.8 | 公布: 0.5\n-- 中国 7月 CPI月率 (%): 前值: -0.3 | 预测: 0.2 | 公布: -0.1
-UID:fx678-20260809-250fcb6f
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 7月 CPI年率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260809T093000
-DTEND;TZID=Asia/Shanghai:20260809T093000
-LOCATION:中国
-SUMMARY:📊 中国 7月 PPI月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -0.3 | 预测: - | 公布: -0.7
-UID:fx678-20260809-24681888
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 7月 PPI月率 (%)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260810T150000
-DTEND;TZID=Asia/Shanghai:20260810T150000
-LOCATION:中国
-SUMMARY:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%) (0810-0817)
-DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -5 | 预测: - | 公布: -
-UID:fx678-20260810-32e07ae9
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-BEGIN:VALARM
-TRIGGER;RELATED=START:-PT15M
-ACTION:AUDIO
-ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%) (0810-0817)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260810T160000
-DTEND;TZID=Asia/Shanghai:20260810T160000
-LOCATION:中国
-SUMMARY:📊 中国 7月 M2货币供应年率 (%) (0810-0817)
+SUMMARY:📊 中国 7月 M2货币供应年率 (%) (0811-0817)
 DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 8 | 预测: 7.9 | 公布: -\n-- 中国 7月 M0货币供应年率 (%): 前值: 11.8 | 预测: - | 公布: -\n-- 中国 7月 M1货币供应年率 (%): 前值: 4 | 预测: - | 公布: -
-UID:fx678-20260810-0bf90cce
+UID:fx678-20260811-3f0f9349
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 7月 M2货币供应年率 (%) (0810-0817)
+DESCRIPTION:📊 中国 7月 M2货币供应年率 (%) (0811-0817)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260810T160000
-DTEND;TZID=Asia/Shanghai:20260810T160000
+DTSTART;TZID=Asia/Shanghai:20260811T160000
+DTEND;TZID=Asia/Shanghai:20260811T160000
 LOCATION:中国
-SUMMARY:📊 中国 7月 人民币各项贷款余额年率 (%) (0810-0817)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5.3 | 预测: 5.3 | 公布: -\n-- 中国 7月 社会融资规模-年初至今 (亿元) (0810-0817) ★★★: 前值: 208400 | 预测: - | 公布: -\n-- 中国 7月 新增人民币贷款-年初至今 (亿元) (0810-0817) ★★★: 前值: 107200 | 预测: - | 公布: -
-UID:fx678-20260810-5e61f7c9
+SUMMARY:📊 中国 7月 人民币各项贷款余额年率 (%) (0811-0817)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5.3 | 预测: 5.3 | 公布: -\n-- 中国 7月 社会融资规模-年初至今 (亿元) (0811-0817) ★★★: 前值: 208400 | 预测: - | 公布: -\n-- 中国 7月 新增人民币贷款-年初至今 (亿元) (0811-0817) ★★★: 前值: 107200 | 预测: - | 公布: -
+UID:fx678-20260811-30042f7b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
 TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
-DESCRIPTION:📊 中国 7月 人民币各项贷款余额年率 (%) (0810-0817)
+DESCRIPTION:📊 中国 7月 人民币各项贷款余额年率 (%) (0811-0817)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260811T160000
+DTEND;TZID=Asia/Shanghai:20260811T160000
+LOCATION:中国
+SUMMARY:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%) (0811-0817)
+DESCRIPTION:📊 财经数据\n区域: 中国\n前值: -5 | 预测: - | 公布: -
+UID:fx678-20260811-1fad40b2
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 7月 实际外商直接投资年率CNY-年初至今 (%) (0811-0817)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -132,7 +84,7 @@ DTSTART;TZID=Asia/Shanghai:20260817T100000
 DTEND;TZID=Asia/Shanghai:20260817T100000
 LOCATION:中国
 SUMMARY:📊 中国 7月 城镇固定资产投资年率-年初至今 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -5.7 | 预测: - | 公布: -\n-- 中国 7月 城镇固定资产投资月率 (%): 前值: -0.37 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: -5.7 | 预测: -6 | 公布: -\n-- 中国 7月 城镇固定资产投资月率 (%): 前值: -0.37 | 预测: - | 公布: -
 UID:fx678-20260817-5fe8e9d7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -148,7 +100,7 @@ DTSTART;TZID=Asia/Shanghai:20260817T100000
 DTEND;TZID=Asia/Shanghai:20260817T100000
 LOCATION:中国
 SUMMARY:📊 中国 7月 规模以上工业增加值年率-年初至今 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5.4 | 预测: - | 公布: -\n-- 中国 7月 规模以上工业增加值年率-单月 (%) ★★★: 前值: 5.3 | 预测: - | 公布: -\n-- 中国 7月 规模以上工业增加值月率-单月 (%): 前值: 0.8 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 5.4 | 预测: - | 公布: -\n-- 中国 7月 规模以上工业增加值年率-单月 (%) ★★★: 前值: 5.3 | 预测: 4.8 | 公布: -\n-- 中国 7月 规模以上工业增加值月率-单月 (%): 前值: 0.8 | 预测: - | 公布: -
 UID:fx678-20260817-423f66ca
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -164,7 +116,7 @@ DTSTART;TZID=Asia/Shanghai:20260817T100000
 DTEND;TZID=Asia/Shanghai:20260817T100000
 LOCATION:中国
 SUMMARY:📊 中国 7月 社会消费品零售总额年率 (%)
-DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1 | 预测: - | 公布: -\n-- 中国 7月 社会消费品零售总额年率-年初至今 (%) ★★★: 前值: 1.33 | 预测: - | 公布: -\n-- 中国 7月 社会消费品零售总额月率 (%) ★★★: 前值: 0.38 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1 | 预测: 1.6 | 公布: -\n-- 中国 7月 社会消费品零售总额年率-年初至今 (%) ★★★: 前值: 1.33 | 预测: - | 公布: -\n-- 中国 7月 社会消费品零售总额月率 (%) ★★★: 前值: 0.38 | 预测: - | 公布: -
 UID:fx678-20260817-7024a6fd
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -237,6 +189,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 中国 7月 商业银行结售汇-银行代客 (亿元人民币) （不定时）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260818T101000
+DTEND;TZID=Asia/Shanghai:20260818T101000
+LOCATION:中国
+SUMMARY:📊 中国 2025年 非洲贸易指数 (不定时)
+DESCRIPTION:📊 财经数据\n区域: 中国\n重要性: ★★★\n前值: 1056.53 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易规模指标: 前值: 1960.51 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易密切指标: 前值: 294.98 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易结构指标: 前值: 149.14 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易潜力指标: 前值: 795.57 | 预测: - | 公布: -\n-- 中国 2025年 非洲贸易活力指标: 前值: 939.69 | 预测: - | 公布: -
+UID:fx678-20260818-094a9886
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 中国 2025年 非洲贸易指数 (不定时)
 END:VALARM
 END:VEVENT
 END:VCALENDAR

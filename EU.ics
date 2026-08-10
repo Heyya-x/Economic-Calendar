@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260810T163000
 DTEND;TZID=Asia/Shanghai:20260810T163000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 8月 Sentix投资者信心指数
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -3.1 | 预测: -1.2 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: -3.1 | 预测: -0.5 | 公布: 0.9
 UID:fx678-20260810-40d16343
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260813T170000
 DTEND;TZID=Asia/Shanghai:20260813T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 6月 季调后工业产出月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: -0.2 | 预测: 0 | 公布: -\n-- 欧元区 6月 工作日调整后工业产出年率 (%): 前值: -1.2 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: -0.2 | 预测: 0 | 公布: -\n-- 欧元区 6月 工作日调整后工业产出年率 (%): 前值: -1.2 | 预测: -0.9 | 公布: -
 UID:fx678-20260813-2b9e82f2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -68,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260814T170000
 DTEND;TZID=Asia/Shanghai:20260814T170000
 LOCATION:欧元区
 SUMMARY:📊 欧元区 第二季度 季调后就业人数季率初值 (%)
-DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 0.1 | 预测: - | 公布: -\n-- 欧元区 第二季度 季调后就业人数年率初值 (%): 前值: 0.5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n前值: 0.1 | 预测: 0.1 | 公布: -\n-- 欧元区 第二季度 季调后就业人数年率初值 (%): 前值: 0.5 | 预测: - | 公布: -
 UID:fx678-20260814-02dc3d88
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -125,6 +125,22 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 欧元区 7月 储备资产总额 (亿欧元)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260818T170000
+DTEND;TZID=Asia/Shanghai:20260818T170000
+LOCATION:欧元区
+SUMMARY:📊 欧元区 8月 ZEW经济景气指数
+DESCRIPTION:📊 财经数据\n区域: 欧元区\n重要性: ★★★\n前值: 23.4 | 预测: - | 公布: -\n-- 欧元区 8月 ZEW经济现况指数: 前值: -37.7 | 预测: - | 公布: -
+UID:fx678-20260818-67799a55
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 欧元区 8月 ZEW经济景气指数
 END:VALARM
 END:VEVENT
 END:VCALENDAR
