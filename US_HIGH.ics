@@ -20,7 +20,7 @@ DTSTART;TZID=Asia/Shanghai:20260811T201500
 DTEND;TZID=Asia/Shanghai:20260811T201500
 LOCATION:美国
 SUMMARY:📊 美国 截至7月25日当周 ADP就业周度发布变动 (万人)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.5 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.5 | 预测: - | 公布: 0.82
 UID:fx678-20260811-5587b443
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -36,7 +36,7 @@ DTSTART;TZID=Asia/Shanghai:20260811T220000
 DTEND;TZID=Asia/Shanghai:20260811T220000
 LOCATION:美国
 SUMMARY:📊 美国 7月 成屋销售年化总数 (万户)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 409 | 预测: 404 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 409 | 预测: 404 | 公布: 406
 UID:fx678-20260811-0dd34c4b
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -52,7 +52,7 @@ DTSTART;TZID=Asia/Shanghai:20260812T000000
 DTEND;TZID=Asia/Shanghai:20260812T000000
 LOCATION:美国
 SUMMARY:📊 美国 8月 EIA月报展望-当年美国原油产量 (万桶/日)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1378 | 预测: - | 公布: -\n-- 美国 8月 EIA月报预估-当年布伦特原油价格 (美元/桶) ★★★: 前值: 81.82 | 预测: - | 公布: -\n-- 美国 8月 EIA月报预估-当年WTI原油价格 (美元/桶) ★★★: 前值: 76.26 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1378 | 预测: - | 公布: 1380\n-- 美国 8月 EIA月报预估-当年布伦特原油价格 (美元/桶) ★★★: 前值: 81.82 | 预测: - | 公布: 86.81\n-- 美国 8月 EIA月报预估-当年WTI原油价格 (美元/桶) ★★★: 前值: 76.26 | 预测: - | 公布: 80.88
 UID:fx678-20260812-3d8316b2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -68,7 +68,7 @@ DTSTART;TZID=Asia/Shanghai:20260812T043000
 DTEND;TZID=Asia/Shanghai:20260812T043000
 LOCATION:美国
 SUMMARY:📊 美国 截至8月7日当周 API原油库存变动 (万桶)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 269 | 预测: - | 公布: -\n-- 美国 截至8月7日当周 API汽油库存变动 (万桶) ★★★: 前值: 15.6 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 269 | 预测: -50 | 公布: 907.2\n-- 美国 截至8月7日当周 API汽油库存变动 (万桶) ★★★: 前值: 15.6 | 预测: -157.8 | 公布: -153.1
 UID:fx678-20260812-07d0a249
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -100,7 +100,7 @@ DTSTART;TZID=Asia/Shanghai:20260812T223000
 DTEND;TZID=Asia/Shanghai:20260812T223000
 LOCATION:美国
 SUMMARY:📊 美国 截至8月7日当周 EIA原油库存变动 (万桶)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 247.9 | 预测: - | 公布: -\n-- 美国 截至8月7日当周 EIA汽油库存变动 (万桶) ★★★: 前值: -164.3 | 预测: - | 公布: -\n-- 美国 截至8月7日当周 EIA精炼油库存变动 (万桶) ★★★: 前值: -347.3 | 预测: - | 公布: -\n-- 美国 截至8月7日当周 EIA俄克拉荷马州-库欣原油库存 (万桶) ★★★: 前值: 235.6 | 预测: - | 公布: -\n-- 美国 截至8月7日当周 EIA每周原油进口变动 (万桶) ★★★: 前值: 29.7 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 247.9 | 预测: -50 | 公布: -\n-- 美国 截至8月7日当周 EIA汽油库存变动 (万桶) ★★★: 前值: -164.3 | 预测: -157.8 | 公布: -\n-- 美国 截至8月7日当周 EIA精炼油库存变动 (万桶) ★★★: 前值: -347.3 | 预测: -160 | 公布: -\n-- 美国 截至8月7日当周 EIA俄克拉荷马州-库欣原油库存 (万桶) ★★★: 前值: 235.6 | 预测: - | 公布: -\n-- 美国 截至8月7日当周 EIA每周原油进口变动 (万桶) ★★★: 前值: 29.7 | 预测: - | 公布: -
 UID:fx678-20260812-10f584d7
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -164,7 +164,7 @@ DTSTART;TZID=Asia/Shanghai:20260813T203000
 DTEND;TZID=Asia/Shanghai:20260813T203000
 LOCATION:美国
 SUMMARY:📊 美国 截至8月8日当周 初请失业金人数 (万)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.9 | 预测: 20.1 | 公布: -\n-- 美国 截至8月1日当周 续请失业金人数 (万) ★★★: 前值: 180.1 | 预测: 180 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.9 | 预测: 20.2 | 公布: -\n-- 美国 截至8月1日当周 续请失业金人数 (万) ★★★: 前值: 180.1 | 预测: 179.5 | 公布: -
 UID:fx678-20260813-7412ff86
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -212,7 +212,7 @@ DTSTART;TZID=Asia/Shanghai:20260814T220000
 DTEND;TZID=Asia/Shanghai:20260814T220000
 LOCATION:美国
 SUMMARY:📊 美国 8月 密歇根大学消费者信心指数初值
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 55.2 | 预测: 54 | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 55.2 | 预测: 54.5 | 公布: -
 UID:fx678-20260814-571a70f5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -324,7 +324,7 @@ DTSTART;TZID=Asia/Shanghai:20260818T211500
 DTEND;TZID=Asia/Shanghai:20260818T211500
 LOCATION:美国
 SUMMARY:📊 美国 7月 工业产出月率 (%)
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.1 | 预测: - | 公布: -\n-- 美国 7月 产能利用率 (%) ★★★: 前值: 76.1 | 预测: - | 公布: -\n-- 美国 7月 制造业产出月率 (%) ★★★: 前值: 0 | 预测: - | 公布: -\n-- 美国 7月 制造业产能利用率 (%) ★★★: 前值: 75.7 | 预测: - | 公布: -\n-- 美国 7月 工业产出年率-季调后 (%) ★★★: 前值: 1.14 | 预测: - | 公布: -
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.1 | 预测: 0.3 | 公布: -\n-- 美国 7月 产能利用率 (%) ★★★: 前值: 76.1 | 预测: 76.3 | 公布: -\n-- 美国 7月 制造业产出月率 (%) ★★★: 前值: 0 | 预测: - | 公布: -\n-- 美国 7月 制造业产能利用率 (%) ★★★: 前值: 75.7 | 预测: - | 公布: -\n-- 美国 7月 工业产出年率-季调后 (%) ★★★: 前值: 1.14 | 预测: - | 公布: -
 UID:fx678-20260818-02555732
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
@@ -349,6 +349,38 @@ TRIGGER;RELATED=START:-PT15M
 ACTION:AUDIO
 ATTACH;VALUE=URI:Basso
 DESCRIPTION:📊 美国 7月 季调后成屋签约销售指数月率 (%)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260819T043000
+DTEND;TZID=Asia/Shanghai:20260819T043000
+LOCATION:美国
+SUMMARY:📊 美国 截至8月14日当周 API原油库存变动 (万桶)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至8月14日当周 API汽油库存变动 (万桶) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20260819-2fb24228
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 截至8月14日当周 API原油库存变动 (万桶)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260819T223000
+DTEND;TZID=Asia/Shanghai:20260819T223000
+LOCATION:美国
+SUMMARY:📊 美国 截至8月14日当周 EIA原油库存变动 (万桶)
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至8月14日当周 EIA汽油库存变动 (万桶) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 截至8月14日当周 EIA精炼油库存变动 (万桶) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 截至8月14日当周 EIA俄克拉荷马州-库欣原油库存 (万桶) ★★★: 前值:  | 预测: - | 公布: -\n-- 美国 截至8月14日当周 EIA每周原油进口变动 (万桶) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20260819-410d1d6d
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+TRIGGER;RELATED=START:-PT15M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+DESCRIPTION:📊 美国 截至8月14日当周 EIA原油库存变动 (万桶)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
