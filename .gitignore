@@ -1,6 +1,5 @@
 
 .claude
 __pycache__
-*.py
 cookies.json
 nohup.out
