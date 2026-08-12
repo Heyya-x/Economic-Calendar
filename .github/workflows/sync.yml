@@ -1,0 +1,75 @@
+name: Sync US Calendar
+
+
+on:
+
+  schedule:
+
+    # 每15分钟检查一次
+
+    - cron: "*/15 * * * *"
+
+
+  workflow_dispatch:
+
+
+
+jobs:
+
+
+  sync:
+
+
+    runs-on: ubuntu-latest
+
+
+    steps:
+
+
+      - name: Checkout
+
+        uses: actions/checkout@v4
+
+
+
+      - name: Download upstream ICS
+
+        run: |
+
+          curl \
+          -L \
+          https://raw.githubusercontent.com/obeya/calendar/main/US_KEY.ics \
+          -o US_KEY_raw.ics
+
+
+
+      - name: Modify ICS
+
+        run: |
+
+          python scripts/modify_ics.py
+
+
+
+      - name: Commit changes
+
+        run: |
+
+          git config user.name \
+          "github-actions"
+
+          git config user.email \
+          "actions@github.com"
+
+
+          git add US_KEY.ics
+
+
+          git diff \
+          --cached \
+          --quiet || \
+          git commit \
+          -m "Update US calendar"
+
+
+          git push
