@@ -20,8 +20,8 @@ DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 LOCATION:美国
 SUMMARY:📊 美国 截至10月10日当周 ADP就业周度发布变动 (万人) 20:15
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.85 | 预测: - | 公布: -
-UID:fx678-20261027-1e5acdff
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.85 | 预测: - | 公布: 1.68
+UID:fx678-20261027-01f4bd46
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
@@ -36,7 +36,7 @@ DTEND;VALUE=DATE:20261030
 LOCATION:美国
 SUMMARY:📊 美国 10月 联邦基金利率目标上限 (%) 02:00
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 4 | 预测: 4 | 公布: -\n-- 美国 10月 联邦基金利率目标下限 (%) ★★★: 前值: 3.75 | 预测: 3.75 | 公布: -
-UID:fx678-20261029-08209115
+UID:fx678-20261029-4e824bb5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
@@ -50,8 +50,8 @@ DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 LOCATION:美国
 SUMMARY:📊 美国 第三季度 实际GDP年化季率初值 (%) 20:30
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.2 | 预测: 3.2 | 公布: -\n-- 美国 第三季度 GDP价格指数季率初值 (%) ★★★: 前值: 6.3 | 预测: - | 公布: -\n-- 美国 第三季度 核心PCE物价指数年化季率初值 (%) ★★★: 前值: 3.3 | 预测: - | 公布: -\n-- 美国 第三季度 消费者支出年化季率初值 (%) ★★★: 前值: 3.8 | 预测: - | 公布: -\n-- 美国 第三季度 GDP隐性平减指数季率-季调后初值 (%) ★★★: 前值: 6.1 | 预测: - | 公布: -
-UID:fx678-20261029-65c8eea9
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.2 | 预测: 3.2 | 公布: -\n-- 美国 第三季度 GDP价格指数季率初值 (%) ★★★: 前值: 6.1 | 预测: 3.5 | 公布: -\n-- 美国 第三季度 核心PCE物价指数年化季率初值 (%) ★★★: 前值: 3.3 | 预测: 2.4 | 公布: -\n-- 美国 第三季度 消费者支出年化季率初值 (%) ★★★: 前值: 3.8 | 预测: - | 公布: -\n-- 美国 第三季度 GDP隐性平减指数季率-季调后初值 (%) ★★★: 前值: 6.1 | 预测: 3.4 | 公布: -
+UID:fx678-20261029-4bb85fe2
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
@@ -65,8 +65,8 @@ DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 LOCATION:美国
 SUMMARY:📊 美国 截至10月24日当周 初请失业金人数 (万) 20:30
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.4 | 预测: - | 公布: -
-UID:fx678-20261029-72b8b469
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.4 | 预测: 19.8 | 公布: -
+UID:fx678-20261029-0f794857
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
@@ -74,5 +74,20 @@ END:VEVENTBEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER;VALUE=DATE-TIME:20261029T090000
 DESCRIPTION:20:30 Reminder
+END:VALARM
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+LOCATION:美国
+SUMMARY:📊 美国 10月 ADP就业人数变动 (万) 21:15
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 9 | 预测: - | 公布: -
+UID:fx678-20261104-3647d8a2
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+
+END:VEVENTBEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20261104T090000
+DESCRIPTION:21:15 Reminder
 END:VALARM
 END:VCALENDAR
