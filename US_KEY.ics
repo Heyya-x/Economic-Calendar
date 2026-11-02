@@ -20,8 +20,8 @@ DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 LOCATION:美国
 SUMMARY:📊 美国 10月 ADP就业人数变动 (万) 21:15
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 9 | 预测: 7.5 | 公布: -
-UID:fx678-20261104-1e42300c
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 9 | 预测: 6.5 | 公布: -
+UID:fx678-20261104-32aef374
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
@@ -35,8 +35,8 @@ DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 LOCATION:美国
 SUMMARY:📊 美国 截至10月31日当周 初请失业金人数 (万) 21:30
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.4 | 预测: - | 公布: -\n-- 美国 截至10月24日当周 续请失业金人数 (万) ★★★: 前值: 170.1 | 预测: - | 公布: -
-UID:fx678-20261105-7adefb39
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.4 | 预测: 19.5 | 公布: -\n-- 美国 截至10月24日当周 续请失业金人数 (万) ★★★: 前值: 170.1 | 预测: - | 公布: -
+UID:fx678-20261105-22f7fd90
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
@@ -51,7 +51,7 @@ DTEND;VALUE=DATE:20261107
 LOCATION:美国
 SUMMARY:📊 美国 10月 非农就业人口变动季调后 (万) 21:30
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.9 | 预测: 6.5 | 公布: -\n-- 美国 10月 平均每小时工资年率 (%) ★★★: 前值: 3 | 预测: 2.9 | 公布: -\n-- 美国 10月 私营企业非农就业人数变动 (万) ★★★: 前值: 4.6 | 预测: 6.3 | 公布: -\n-- 美国 10月 劳动参与率 (%) ★★★: 前值: 61.8 | 预测: - | 公布: -\n-- 美国 10月 制造业就业人口变动季调后 (万) ★★★: 前值: 0.9 | 预测: - | 公布: -\n-- 美国 10月 失业率 (%) ★★★: 前值: 4.2 | 预测: 4.2 | 公布: -
-UID:fx678-20261106-2fd14aca
+UID:fx678-20261106-4042bc51
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
