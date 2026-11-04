@@ -20,8 +20,8 @@ DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 LOCATION:美国
 SUMMARY:📊 美国 10月 ADP就业人数变动 (万) 21:15
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 9 | 预测: 6.5 | 公布: -
-UID:fx678-20261104-6cc1d3d8
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 9 | 预测: 6.5 | 公布: 8.6
+UID:fx678-20261104-1dd2c7ad
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
@@ -36,7 +36,7 @@ DTEND;VALUE=DATE:20261106
 LOCATION:美国
 SUMMARY:📊 美国 截至10月31日当周 初请失业金人数 (万) 21:30
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 19.4 | 预测: 19.5 | 公布: -\n-- 美国 截至10月24日当周 续请失业金人数 (万) ★★★: 前值: 170.1 | 预测: - | 公布: -
-UID:fx678-20261105-3fd100eb
+UID:fx678-20261105-08079318
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
@@ -51,7 +51,7 @@ DTEND;VALUE=DATE:20261107
 LOCATION:美国
 SUMMARY:📊 美国 10月 非农就业人口变动季调后 (万) 21:30
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.9 | 预测: 6.5 | 公布: -\n-- 美国 10月 平均每小时工资年率 (%) ★★★: 前值: 3 | 预测: 2.9 | 公布: -\n-- 美国 10月 私营企业非农就业人数变动 (万) ★★★: 前值: 4.6 | 预测: 6.3 | 公布: -\n-- 美国 10月 劳动参与率 (%) ★★★: 前值: 61.8 | 预测: - | 公布: -\n-- 美国 10月 制造业就业人口变动季调后 (万) ★★★: 前值: 0.9 | 预测: - | 公布: -\n-- 美国 10月 失业率 (%) ★★★: 前值: 4.2 | 预测: 4.2 | 公布: -
-UID:fx678-20261106-7805cde9
+UID:fx678-20261106-0ad1fd3e
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
@@ -66,7 +66,7 @@ DTEND;VALUE=DATE:20261111
 LOCATION:美国
 SUMMARY:📊 美国 截至10月24日当周 ADP就业周度发布变动 (万人) 21:15
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.68 | 预测: - | 公布: -
-UID:fx678-20261110-1c6d866f
+UID:fx678-20261110-45a7bade
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
@@ -81,13 +81,28 @@ DTEND;VALUE=DATE:20261111
 LOCATION:美国
 SUMMARY:📊 美国 10月 CPI年率未季调 (%) 21:30
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.7 | 预测: - | 公布: -\n-- 美国 10月 核心CPI年率未季调 (%) ★★★: 前值: 2.6 | 预测: - | 公布: -\n-- 美国 10月 能源CPI年率-未季调 (%) ★★★: 前值: 20.4 | 预测: - | 公布: -
-UID:fx678-20261110-21e3483c
+UID:fx678-20261110-1789ffd5
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
 END:VEVENTBEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER;VALUE=DATE-TIME:20261110T090000
+DESCRIPTION:21:30 Reminder
+END:VALARM
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+LOCATION:美国
+SUMMARY:📊 美国 截至11月2日当周 初请失业金人数 (万) 21:30
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至11月2日当周 续请失业金人数 (万) ★★★: 前值:  | 预测: - | 公布: -
+UID:fx678-20261112-316d2417
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+
+END:VEVENTBEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20261112T090000
 DESCRIPTION:21:30 Reminder
 END:VALARM
 END:VCALENDAR
