@@ -16,27 +16,12 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-LOCATION:美国
-SUMMARY:📊 美国 截至11月2日当周 初请失业金人数 (万) 21:30
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 18.9 | 预测: 19.5 | 公布: -\n-- 美国 截至10月26日当周 续请失业金人数 (万) ★★★: 前值: 171.8 | 预测: 171 | 公布: -
-UID:fx678-20261112-2dc0f1c7
-CATEGORIES:财经数据
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-
-END:VEVENTBEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER;VALUE=DATE-TIME:20261112T090000
-DESCRIPTION:21:30 Reminder
-END:VALARM
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 LOCATION:美国
 SUMMARY:📊 美国 截至10月31日当周 ADP就业周度发布变动 (万人) 21:15
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -
-UID:fx678-20261117-4329659b
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 1.98 | 预测: - | 公布: -
+UID:fx678-20261117-00041aad
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
@@ -50,8 +35,8 @@ DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 LOCATION:美国
 SUMMARY:📊 美国 10月 零售销售月率 (%) 21:30
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.8 | 预测: 0 | 公布: -\n-- 美国 10月 核心零售销售月率 (%) ★★★: 前值: 0.9 | 预测: 0.4 | 公布: -\n-- 美国 10月 零售销售年率 (%) ★★★: 前值: 6.29 | 预测: - | 公布: -\n-- 美国 10月 关联GDP的零售额控制组月率-季调后 (%) ★★★: 前值: 0.1 | 预测: - | 公布: -
-UID:fx678-20261117-24302562
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 0.8 | 预测: 0 | 公布: -\n-- 美国 10月 核心零售销售月率 (%) ★★★: 前值: 0.9 | 预测: 0.4 | 公布: -\n-- 美国 10月 零售销售年率 (%) ★★★: 前值: 6.29 | 预测: - | 公布: -\n-- 美国 10月 关联GDP的零售额控制组月率-季调后 (%) ★★★: 前值: 0.1 | 预测: 0.4 | 公布: -
+UID:fx678-20261117-33e0f826
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
@@ -65,8 +50,8 @@ DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 LOCATION:美国
 SUMMARY:📊 美国 截至11月14日当周 初请失业金人数 (万) 21:30
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值:  | 预测: - | 公布: -\n-- 美国 截至11月14日当周 续请失业金人数 (万) ★★★: 前值:  | 预测: - | 公布: -
-UID:fx678-20261119-1bb069ab
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20 | 预测: - | 公布: -\n-- 美国 截至11月14日当周 续请失业金人数 (万) ★★★: 前值: 169.7 | 预测: - | 公布: -
+UID:fx678-20261119-33ccfd86
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
