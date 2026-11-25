@@ -20,8 +20,8 @@ DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 LOCATION:美国
 SUMMARY:📊 美国 截至11月7日当周 ADP就业周度发布变动 (万人) 21:15
-DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.38 | 预测: - | 公布: -
-UID:fx678-20261124-4bdc6eee
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 2.38 | 预测: - | 公布: 2.1
+UID:fx678-20261124-7ef9d7af
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
@@ -36,7 +36,7 @@ DTEND;VALUE=DATE:20261126
 LOCATION:美国
 SUMMARY:📊 美国 第三季度 实际GDP年化季率修正值 (%) 21:30
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 3.4 | 预测: 3.4 | 公布: -\n-- 美国 第三季度 GDP价格指数季率修正值 (%) ★★★: 前值: 2.3 | 预测: 2.3 | 公布: -\n-- 美国 第三季度 核心PCE物价指数年化季率修正值 (%) ★★★: 前值: 2.5 | 预测: 2.5 | 公布: -\n-- 美国 第三季度 消费者支出年化季率修正值 (%) ★★★: 前值: 3.8 | 预测: - | 公布: -\n-- 美国 第三季度 GDP隐性平减指数季率-季调后修正值 (%) ★★★: 前值: 2.1 | 预测: - | 公布: -
-UID:fx678-20261125-50218e55
+UID:fx678-20261125-3b10c2e8
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
@@ -51,7 +51,7 @@ DTEND;VALUE=DATE:20261126
 LOCATION:美国
 SUMMARY:📊 美国 截至11月21日当周 初请失业金人数 (万) 21:30
 DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 20.3 | 预测: 20 | 公布: -\n-- 美国 截至11月14日当周 续请失业金人数 (万) ★★★: 前值: 176.3 | 预测: - | 公布: -
-UID:fx678-20261125-086f569d
+UID:fx678-20261125-0d1ecfbf
 CATEGORIES:财经数据
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 
@@ -59,5 +59,20 @@ END:VEVENTBEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER;VALUE=DATE-TIME:20261125T090000
 DESCRIPTION:21:30 Reminder
+END:VALARM
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+LOCATION:美国
+SUMMARY:📊 美国 11月 ADP就业人数变动 (万) 21:15
+DESCRIPTION:📊 财经数据\n区域: 美国\n重要性: ★★★\n前值: 8.6 | 预测: - | 公布: -
+UID:fx678-20261202-7037ed41
+CATEGORIES:财经数据
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+
+END:VEVENTBEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER;VALUE=DATE-TIME:20261202T090000
+DESCRIPTION:21:15 Reminder
 END:VALARM
 END:VCALENDAR
